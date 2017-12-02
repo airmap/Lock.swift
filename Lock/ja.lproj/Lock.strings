@@ -1,0 +1,108 @@
+/* (No Comment) */
+"com.auth0.lock.database.button.forgot_password" = "パスワードを忘れた場合";
+
+/* (No Comment) */
+"com.auth0.lock.database.button.tos" = "サービス規約とプライバシーポリシーに同意する必要があります";
+
+/* (No Comment) */
+"com.auth0.lock.database.forgot.success.message" = "Eメールを送信しました、ご確認ください。";
+
+/* (No Comment) */
+"com.auth0.lock.database.login.success.message" = "ログイン完了";
+
+/* (No Comment) */
+"com.auth0.lock.database.mode.switcher.login" = "ログイン";
+
+/* (No Comment) */
+"com.auth0.lock.database.mode.switcher.signup" = "サインアップ";
+
+/* (No Comment) */
+"com.auth0.lock.database.separator" = "or";
+
+/* (No Comment) */
+"com.auth0.lock.error.authentication.invalid_user_password" = "メールアドレスまたはパスワードが違います";
+
+/* (No Comment) */
+"com.auth0.lock.error.fallback" = "不明なエラーが発生しました\nテクニカルサポートに連絡してください";
+
+/* (No Comment) */
+"com.auth0.lock.error.forgot.fallback" = "パスワードの変更に失敗しました";
+
+/* (No Comment) */
+"com.auth0.lock.error.password.at_least_length" = "%d 文字以上が必要";
+
+/* (No Comment) */
+"com.auth0.lock.error.password.contain_at_least" = "次のうち %d 種類が必要";
+
+/* (No Comment) */
+"com.auth0.lock.error.password.lowercase_letters" = "小文字（a-z）";
+
+/* (No Comment) */
+"com.auth0.lock.error.password.no_more_identical" = "%1$d 文字以上同じ文字は不可（例：%2$@ ）";
+
+/* (No Comment) */
+"com.auth0.lock.error.password.non_empty" = "パスワード入力が必要";
+
+/* (No Comment) */
+"com.auth0.lock.error.password.numbers" = "数字（0-9）";
+
+/* (No Comment) */
+"com.auth0.lock.error.password.should_contain" = "含むべき文字：";
+
+/* (No Comment) */
+"com.auth0.lock.error.password.special_characters" = "記号（!@#$%^&*）";
+
+/* (No Comment) */
+"com.auth0.lock.error.password.uppercase_letters" = "大文字（A-Z）";
+
+/* (No Comment) */
+"com.auth0.lock.error.signup.fallback" = "サインアップ中にエラーが発生しました";
+
+/* (No Comment) */
+"com.auth0.lock.error.signup.invalid_password" = "パスワードが違います";
+
+/* (No Comment) */
+"com.auth0.lock.error.signup.password_dictionary_error" = "推測しやすいパスワードです";
+
+/* (No Comment) */
+"com.auth0.lock.error.signup.password_history" = "前のパスワードと同じものは使えません";
+
+/* (No Comment) */
+"com.auth0.lock.error.signup.password_no_user_info_error" = "パスワードにユーザー情報が含まれています。";
+
+/* (No Comment) */
+"com.auth0.lock.error.signup.password_strength_error" = "パスワードが弱すぎます。";
+
+/* (No Comment) */
+"com.auth0.lock.error.signup.user_exists" = "このユーザーはすでに存在します。";
+
+/* (No Comment) */
+"com.auth0.lock.forgot.message" = "メールアドレスと新しいパスワードを入力してください。確認のためEメールを送信します。";
+
+/* (No Comment) */
+"com.auth0.lock.forgot.title" = "パスワードをリセット";
+
+/* (No Comment) */
+"com.auth0.lock.input.email.error" = "有効なメールアドレスをご利用ください";
+
+/* (No Comment) */
+"com.auth0.lock.input.email.placeholder" = "メールアドレス";
+
+/* (No Comment) */
+"com.auth0.lock.input.password.placeholder" = "パスワード";
+
+/* (No Comment) */
+"com.auth0.lock.strategy.login.title" = "%1$@ でログイン";
+
+/* (No Comment) */
+"com.auth0.lock.strategy.signup.title" = "%1$@ でサインアップ";
+
+/* (No Comment) */
+"com.auth0.lock.submit.login.title" = "ログイン";
+
+/* (No Comment) */
+"com.auth0.lock.submit.send_email.title" = "送信";
+
+/* (No Comment) */
+"com.auth0.lock.submit.signup.title" = "サインアップ";
+
