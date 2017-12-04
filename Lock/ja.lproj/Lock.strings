@@ -106,3 +106,12 @@
 /* (No Comment) */
 "com.auth0.lock.submit.signup.title" = "サインアップ";
 
+/* (No Comment) */
+"com.auth0.lock.database.tos.sheet.cancel" = "キャンセル";
+
+/* (No Comment) */
+"com.auth0.lock.database.tos.sheet.privacy" = "プライバシーポリシー";
+
+/* (No Comment) */
+"com.auth0.lock.database.tos.sheet.title" = "サービス規約";
+
