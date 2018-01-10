@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/Lock.svg?style=flat-square)](http://cocoadocs.org/docsets/Lock)
 [![Platform](https://img.shields.io/cocoapods/p/Lock.svg?style=flat-square)](http://cocoadocs.org/docsets/Lock)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat-square)](https://github.com/Carthage/Carthage)
-![Swift 3.1](https://img.shields.io/badge/Swift-3.1-orange.svg?style=flat-square)
+![Swift 3.2](https://img.shields.io/badge/Swift-3.2-orange.svg?style=flat-square)
 
 [Auth0](https://auth0.com) is an authentication broker that supports social identity providers as well as enterprise identity providers such as Active Directory, LDAP, Google Apps and Salesforce.
 
@@ -21,8 +21,8 @@ Need help migrating from v1? Please check our [Migration Guide](MIGRATION.md)
 ## Requirements
 
 - iOS 9 or later
-- Xcode 8.3 / 9.0
-- Swift 3.1+
+- Xcode 8.3+
+- Swift 3.2+
 
 ## Install
 
@@ -416,6 +416,7 @@ You will need to add the following to your app's `Info.plist`:
 
 > If your `Info.plist` is not shown in this format, you can **Right Click** on `Info.plist` in Xcode and then select **Open As / Source Code**.
 
+
 If you see the following debug error:
 
 ```text
@@ -435,27 +436,6 @@ By default a show password icon is shown in password fields to toggle visibility
 ```
 
 **Note:** Show password will not be available if the [Password Manager](#Password Manager) is available.
-
-#### Connection Resolver
-
-Extensibility point to make it possible to choose which database connection should be used during login and sign up. By default will return nil. Which will result in the default database connection being used. 
-
-```swift
-.withOptions {
-    $0.connectionResolver = {
-        guard let domain = $0.components(separatedBy: "@").last else { return nil }
-
-        switch(domain) {
-        case "customdomain.com":
-            return "Custom-Database-Authentication"
-        default:
-            return nil
-        }
-    }
-}
-```
-
-**Important:** You must ensure any connections values returned are valid and associated with your Auth0 client.
 
 #### Enterprise
 
