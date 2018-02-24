@@ -1,4 +1,4 @@
-version = `agvtool mvers -terse1`.strip
+version = "2.5.1-airmap-localized" 
 Pod::Spec.new do |s|
   s.name             = "Lock"
   s.version          = version
