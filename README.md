@@ -31,7 +31,7 @@ Need help migrating from v1? Please check our [Migration Guide](MIGRATION.md)
  Add the following line to your Podfile:
 
  ```ruby
- pod "Lock", "~> 2.4"
+ pod "Lock", "~> 2.5"
  ```
 
 ### Carthage
@@ -39,7 +39,7 @@ Need help migrating from v1? Please check our [Migration Guide](MIGRATION.md)
 In your `Cartfile` add
 
 ```ruby
-github "auth0/Lock.swift" ~> 2.4
+github "auth0/Lock.swift" ~> 2.5
 ```
 
 ## Usage
@@ -174,6 +174,16 @@ Lock
 ## Styling Lock
 
 Lock provides many styling options to help you apply your own brand identity to Lock.
+
+### iPad Modal Presentation
+
+iPad presentation is show in a modal popup, this can be disabled to use full screen as follows.
+
+```swift
+.withStyle {
+  $0.modalPopup = false
+}
+```
 
 ### Customize your header and primary color
 
