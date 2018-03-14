@@ -1,117 +1,179 @@
-/* (No Comment) */
 "com.auth0.lock.database.button.forgot_password" = "パスワードを忘れた場合";
 
-/* (No Comment) */
 "com.auth0.lock.database.button.tos" = "サービス規約とプライバシーポリシーに同意する必要があります";
 
-/* (No Comment) */
 "com.auth0.lock.database.forgot.success.message" = "Eメールを送信しました、ご確認ください。";
 
-/* (No Comment) */
 "com.auth0.lock.database.login.success.message" = "ログイン完了";
 
-/* (No Comment) */
 "com.auth0.lock.database.mode.switcher.login" = "ログイン";
 
-/* (No Comment) */
 "com.auth0.lock.database.mode.switcher.signup" = "サインアップ";
 
-/* (No Comment) */
 "com.auth0.lock.database.separator" = "or";
 
-/* (No Comment) */
-"com.auth0.lock.error.authentication.invalid_user_password" = "メールアドレスまたはパスワードが違います";
+"com.auth0.lock.database.signup.success.message" = "サインアップ完了";
 
-/* (No Comment) */
-"com.auth0.lock.error.fallback" = "不明なエラーが発生しました\nテクニカルサポートに連絡してください";
-
-/* (No Comment) */
-"com.auth0.lock.error.forgot.fallback" = "パスワードの変更に失敗しました";
-
-/* (No Comment) */
-"com.auth0.lock.error.password.at_least_length" = "%d 文字以上が必要";
-
-/* (No Comment) */
-"com.auth0.lock.error.password.contain_at_least" = "次のうち %d 種類が必要";
-
-/* (No Comment) */
-"com.auth0.lock.error.password.lowercase_letters" = "小文字（a-z）";
-
-/* (No Comment) */
-"com.auth0.lock.error.password.no_more_identical" = "%1$d 文字以上同じ文字は不可（例：%2$@ ）";
-
-/* (No Comment) */
-"com.auth0.lock.error.password.non_empty" = "パスワード入力が必要";
-
-/* (No Comment) */
-"com.auth0.lock.error.password.numbers" = "数字（0-9）";
-
-/* (No Comment) */
-"com.auth0.lock.error.password.should_contain" = "含むべき文字：";
-
-/* (No Comment) */
-"com.auth0.lock.error.password.special_characters" = "記号（!@#$%^&*）";
-
-/* (No Comment) */
-"com.auth0.lock.error.password.uppercase_letters" = "大文字（A-Z）";
-
-/* (No Comment) */
-"com.auth0.lock.error.signup.fallback" = "サインアップ中にエラーが発生しました";
-
-/* (No Comment) */
-"com.auth0.lock.error.signup.invalid_password" = "パスワードが違います";
-
-/* (No Comment) */
-"com.auth0.lock.error.signup.password_dictionary_error" = "推測しやすいパスワードです";
-
-/* (No Comment) */
-"com.auth0.lock.error.signup.password_history" = "前のパスワードと同じものは使えません";
-
-/* (No Comment) */
-"com.auth0.lock.error.signup.password_no_user_info_error" = "パスワードにユーザー情報が含まれています。";
-
-/* (No Comment) */
-"com.auth0.lock.error.signup.password_strength_error" = "パスワードが弱すぎます。";
-
-/* (No Comment) */
-"com.auth0.lock.error.signup.user_exists" = "このユーザーはすでに存在します。";
-
-/* (No Comment) */
-"com.auth0.lock.forgot.message" = "メールアドレスと新しいパスワードを入力してください。確認のためEメールを送信します。";
-
-/* (No Comment) */
-"com.auth0.lock.forgot.title" = "パスワードをリセット";
-
-/* (No Comment) */
-"com.auth0.lock.input.email.error" = "有効なメールアドレスをご利用ください";
-
-/* (No Comment) */
-"com.auth0.lock.input.email.placeholder" = "メールアドレス";
-
-/* (No Comment) */
-"com.auth0.lock.input.password.placeholder" = "パスワード";
-
-/* (No Comment) */
-"com.auth0.lock.strategy.login.title" = "%1$@ でログイン";
-
-/* (No Comment) */
-"com.auth0.lock.strategy.signup.title" = "%1$@ でサインアップ";
-
-/* (No Comment) */
-"com.auth0.lock.submit.login.title" = "ログイン";
-
-/* (No Comment) */
-"com.auth0.lock.submit.send_email.title" = "送信";
-
-/* (No Comment) */
-"com.auth0.lock.submit.signup.title" = "サインアップ";
-
-/* (No Comment) */
 "com.auth0.lock.database.tos.sheet.cancel" = "キャンセル";
 
-/* (No Comment) */
 "com.auth0.lock.database.tos.sheet.privacy" = "プライバシーポリシー";
 
-/* (No Comment) */
 "com.auth0.lock.database.tos.sheet.title" = "サービス規約";
 
+"com.auth0.lock.enterprise.sso.message" = "法人のCredentialを入力してください";
+
+"com.auth0.lock.enterprise.sso.message_at" = "%1$@ に法人のCredentialを入力してください";
+
+"com.auth0.lock.enterprise.sso.title" = "シングルサインオンが有効";
+
+"com.auth0.lock.error.authentication.blocked_user" = "ユーザはブロックされています";
+
+"com.auth0.lock.error.authentication.fallback" = "ログインの処理中にエラーが発生しました";
+
+"com.auth0.lock.error.authentication.invalid_user_password" = "メールアドレスまたはパスワードが違います";
+
+"com.auth0.lock.error.authentication.mfa_invalid_code" = "コードが間違っています";
+
+"com.auth0.lock.error.authentication.no_connection" = "このユーザの接続確認ができませんでした";
+
+"com.auth0.lock.error.authentication.password_change_required" = "パスワードが無効になっています。パスワードを変更してください。";
+
+"com.auth0.lock.error.authentication.password_leaked" = "ログインがブロックされました。このパスワードは他のウェブサイトに流出している可能性があります。ブロックの解除方法をメールで送信しました。";
+
+"com.auth0.lock.error.authentication.too_many_attempts" = "ログインに連続して失敗したためアカウントがブロックされました";
+
+"com.auth0.lock.error.fallback" = "不明なエラーが発生しました\nテクニカルサポートに連絡してください";
+
+"com.auth0.lock.error.forgot.fallback" = "パスワードの変更に失敗しました";
+
+"com.auth0.lock.error.password.at_least_length" = "%d 文字以上が必要";
+
+"com.auth0.lock.error.password.contain_at_least" = "次のうち %d 種類が必要";
+
+"com.auth0.lock.error.password.lowercase_letters" = "小文字（a-z）";
+
+"com.auth0.lock.error.password.non_empty" = "パスワード入力が必要";
+
+"com.auth0.lock.error.password.no_more_identical" = "%1$d 文字以上同じ文字は不可（例：%2$@ ）";
+
+"com.auth0.lock.error.password.numbers" = "数字（0-9）";
+
+"com.auth0.lock.error.password.should_contain" = "含むべき文字：";
+
+"com.auth0.lock.error.password.special_characters" = "記号（!@#$%^&*）";
+
+"com.auth0.lock.error.password.uppercase_letters" = "大文字（A-Z）";
+
+"com.auth0.lock.error.passwordless.invalid_link" = "リンクに問題があります、他のものを試してください。";
+
+"com.auth0.lock.error.passwordless.signup_disabled" = "このアカウントでのサインアップはブロックされています。管理者に問い合わせてください。";
+
+"com.auth0.lock.error.recoverable.button" = "リトライ";
+
+"com.auth0.lock.error.recoverable.message" = "インターネット接続を確認してください";
+
+"com.auth0.lock.error.recoverable.title" = "ログインボックスを読み込めませんでした";
+
+"com.auth0.lock.error.signup.fallback" = "サインアップ中にエラーが発生しました";
+
+"com.auth0.lock.error.signup.invalid_password" = "パスワードが不適切です。上記ルールをご確認ください。";
+
+"com.auth0.lock.error.signup.password_dictionary_error" = "推測しやすいパスワードです";
+
+"com.auth0.lock.error.signup.password_history" = "前のパスワードと同じものは使えません";
+
+"com.auth0.lock.error.signup.password_no_user_info_error" = "パスワードにユーザー情報が含まれています。";
+
+"com.auth0.lock.error.signup.password_strength_error" = "パスワードが弱すぎます。";
+
+"com.auth0.lock.error.signup.user_exists" = "このユーザーはすでに存在します。ログイン画面からログインしてください。";
+
+"com.auth0.lock.error.unrecoverable.button" = "問い合わせ";
+
+"com.auth0.lock.error.unrecoverable.default" = "不明なエラーが発生しました。\nテクニカルサポートに連絡してください。";
+
+"com.auth0.lock.error.unrecoverable.invalid_credentials" = "Auth0 Credential、Client ID、ドメイン、のいずれかが不正です。";
+
+"com.auth0.lock.error.unrecoverable.invalid_options" = "オプション設定に失敗しました ：%1$@";
+
+"com.auth0.lock.error.unrecoverable.message" = "ログインボックス設定の解決中に予期せぬエラーが発生しました";
+
+"com.auth0.lock.error.unrecoverable.message.no_action" = "ログインボックス設定の解決中に予期せぬエラーが発生しました。サポートに連絡してください。";
+
+"com.auth0.lock.error.unrecoverable.no_connections" = "このクライアントで有効な認証方式がありません。クライアントのセットアップを確認してください。";
+
+"com.auth0.lock.error.unrecoverable.title" = "リクエストを解決できません";
+
+"com.auth0.lock.forgot.message" = "メールアドレスと新しいパスワードを入力してください。確認のためEメールを送信します。";
+
+"com.auth0.lock.forgot.title" = "パスワードをリセット";
+
+"com.auth0.lock.header.default_title" = "Auth0";
+
+"com.auth0.lock.input.email.error" = "有効なメールアドレスをご利用ください";
+
+"com.auth0.lock.input.email.placeholder" = "メールアドレス";
+
+"com.auth0.lock.input.email_username.placeholder" = "ユーザー名／メールアドレス";
+
+"com.auth0.lock.input.empty.error" = "空にはできません";
+
+"com.auth0.lock.input.generic.error" = "無効です";
+
+"com.auth0.lock.input.otp.error" = "有効な数字でなければいけません";
+
+"com.auth0.lock.input.otp.placeholder" = "コード";
+
+"com.auth0.lock.input.password.placeholder" = "パスワード";
+
+"com.auth0.lock.input.phone.error" = "有効な電話番号を入力してください";
+
+"com.auth0.lock.input.phone.placeholder" = "電話番号";
+
+"com.auth0.lock.input.policy.error" = "パスワードがポリシーを満たしていません";
+
+"com.auth0.lock.input.username.error" = "%d から %d の英数字と _ (アンダーバー)のみ含めることができます";
+
+"com.auth0.lock.input.username.placeholder" = "ユーザー名";
+
+"com.auth0.lock.multifactor.message" = "あなたのアプリで生成した確認コードを入力してください";
+
+"com.auth0.lock.multifactor.title" = "2段階認証";
+
+"com.auth0.lock.passwordless.sms.country.header" = "国を選択してください";
+
+"com.auth0.lock.passwordless.sms.country.search" = "検索";
+
+"com.auth0.lock.strategy.localized.amazon" = "AMAZON";
+
+"com.auth0.lock.strategy.localized.aol" = "AOL";
+
+"com.auth0.lock.strategy.login.title" = "%1$@ でログイン";
+
+"com.auth0.lock.strategy.signup.title" = "%1$@ でサインアップ";
+
+"com.auth0.lock.submit.login.title" = "ログイン";
+
+"com.auth0.lock.submit.send_code.title" = "送信";
+
+"com.auth0.lock.submit.send_email.title" = "送信";
+
+"com.auth0.lock.submit.signup.title" = "サインアップ";
+
+"com.auth0.passwordless.code.reminder" = "コードを取得していますか？";
+
+"com.auth0.passwordless.email.code.sent" = "%1$@ にコードを送信しました";
+
+"com.auth0.passwordless.email.title" = "メールアドレスを入力してください";
+
+"com.auth0.passwordless.email.title.social" = "または、メールアドレスを入力してください。";
+
+"com.auth0.passwordless.link.reminder" = "リンクを受信していますか？";
+
+"com.auth0.passwordless.link.sent" = "サインインするためのリンクを %1$@ へ送りました";
+
+"com.auth0.passwordless.sms.code.sent" = "%1$@ へ確認コードをSMSで送信しました";
+
+"com.auth0.passwordless.sms.title" = "サインインに使用する電話番号を入力してください";
+
+"com.auth0.passwordless.sms.title.social" = "または、サインインに使用する電話番号を入力してください。";

@@ -1,0 +1,254 @@
+"com.auth0.lock.database.button.forgot_password" = "Nepamatujete si své heslo?";
+
+"com.auth0.lock.database.button.tos" = "Registrací souhlasím se smluvními podmínkami aplikace a zásadami ochrany osobních údajů";
+
+"com.auth0.lock.database.forgot.success.message" = "Právě jsme vám zaslali email k obnovení hesla";
+
+"com.auth0.lock.database.login.success.message" = "Úspěšně jste se přihlásili.";
+
+"com.auth0.lock.database.mode.switcher.login" = "Přihlášení";
+
+"com.auth0.lock.database.mode.switcher.signup" = "Registrace";
+
+"com.auth0.lock.database.separator" = "nebo";
+
+"com.auth0.lock.database.signup.success.message" = "Děkujeme za registraci.";
+
+"com.auth0.lock.database.tos.sheet.cancel" = "Zrušit";
+
+"com.auth0.lock.database.tos.sheet.privacy" = "Zásady ochrany osobních údajů";
+
+"com.auth0.lock.database.tos.sheet.title" = "Podmínky poskytování služeb";
+
+"com.auth0.lock.enterprise.sso.message" = "Zadejte prosím vaše firemní ověření";
+
+"com.auth0.lock.enterprise.sso.message_at" = "Zadejte prosím vaše firemní ověření %1$@";
+
+"com.auth0.lock.enterprise.sso.title" = "JEDNODUCHÉ PODEPISOVÁNÍ ZAPNUTO";
+
+"com.auth0.lock.error.authentication.blocked_user" = "UŽIVATEL JE ZABLOKOVÁN";
+
+"com.auth0.lock.error.authentication.fallback" = "OMLOUVÁME SE, NĚCO SE POKAZILO PŘI POKUSU O PŘIHLÁŠENÍ.";
+
+"com.auth0.lock.error.authentication.invalid_user_password" = "ŠPATNÉ HESLO NEBO EMAIL.";
+
+"com.auth0.lock.error.authentication.mfa_invalid_code" = "ŠPATNÝ KÓD.";
+
+"com.auth0.lock.error.authentication.no_connection" = "OMLOUVÁME SE, NELZE NAJÍT PLATNÉ PŘIPOJENÍ PRO UŽIVATELE.";
+
+"com.auth0.lock.error.authentication.password_change_required" = "HESLO JE NUTNÉ AKTUALIZOVAT, Z DŮVODU PRVNÍHO PŘIHLÁŠENÍ NEBO PROTOŽE PLATNOST HESLA VYPRŠELA.";
+
+"com.auth0.lock.error.authentication.password_leaked" = "TOTO PŘIHLÁŠENÍ BYLO BLOKOVÁNO PRO ZJIŠTĚNÍ UNIKNUTÍ VAŠEHO HESLA NA JINÉ STRÁNCE. POSLALI JSME VÁM EMAIL S POKYNY JAK PŘIHLÁŠENÍ ODBLOKOVAT.";
+
+"com.auth0.lock.error.authentication.too_many_attempts" = "VÁŠ ÚČET BYL ZABLOKOVÁN PO VÍCE NESPRÁVNÝCH POKUSECH O PŘIHLÁŠENÍ.";
+
+"com.auth0.lock.error.fallback" = "NĚCO SE POKAZILO.\nKONTAKTUJTE PROSÍM TECHNICKOU PODPORU.";
+
+"com.auth0.lock.error.forgot.fallback" = "OMLOUVÁME SE, NĚCO SE POKAZILO PŘI POKUSU O ZMĚNU HESLA.";
+
+"com.auth0.lock.error.password.at_least_length" = "Minimálně %d znaků délka ";
+
+"com.auth0.lock.error.password.contain_at_least" = "Obsahují alespoň %d z následujících %d typů znaků:";
+
+"com.auth0.lock.error.password.lowercase_letters" = "Malá písmena (a-z)";
+
+"com.auth0.lock.error.password.non_empty" = "Heslo nesmí být prázdné";
+
+"com.auth0.lock.error.password.no_more_identical" = "Nesmí se opakovat více než %1$d identických znaků za sebou (např., \"%2$@\" není povoleno)";
+
+"com.auth0.lock.error.password.numbers" = "Čísla (tj. 0-9)";
+
+"com.auth0.lock.error.password.should_contain" = "Mělo by obsahovat:";
+
+"com.auth0.lock.error.password.special_characters" = "Speciální znaky (např. !@#$%^&*)";
+
+"com.auth0.lock.error.password.uppercase_letters" = "Velká písmena (A-Z)";
+
+"com.auth0.lock.error.passwordless.invalid_link" = "OMLOUVÁME SE, VYSKYTL SE PROBLÉM S ODKAZEM. VYŽÁDEJTE SI NOVÝ ODKAZ PROSÍM.";
+
+"com.auth0.lock.error.passwordless.signup_disabled" = "NOVÉ REGISTRACE JSOU ZAKÁZÁNY PRO TENTO ÚČET, PROSÍM KONTAKTUJTE SPRÁVCE.";
+
+"com.auth0.lock.error.recoverable.button" = "Opakovat";
+
+"com.auth0.lock.error.recoverable.message" = "Zkontrolujte prosím internetové připojení.";
+
+"com.auth0.lock.error.recoverable.title" = "Nelze načíst přihlašovací pole";
+
+"com.auth0.lock.error.signup.fallback" = "OMLOUVÁME SE, NĚCO SE POKAZILO V PRŮBĚHU PŘIHLAŠOVÁNÍ.";
+
+"com.auth0.lock.error.signup.invalid_password" = "NEPLATNÉ HESLO.";
+
+"com.auth0.lock.error.signup.password_dictionary_error" = "PŘÍLIŠ SLABÉ HESLO.";
+
+"com.auth0.lock.error.signup.password_history" = "HESLO BYLO JIŽ POUŽITO.";
+
+"com.auth0.lock.error.signup.password_no_user_info_error" = "HESLO NA ZÁKLADĚ INFORMACÍ UŽIVATELE.";
+
+"com.auth0.lock.error.signup.password_strength_error" = "SLABÉ HESLO.";
+
+"com.auth0.lock.error.signup.user_exists" = "UŽIVATEL JIŽ EXISTUJE.";
+
+"com.auth0.lock.error.unrecoverable.button" = "Kontakt podpora";
+
+"com.auth0.lock.error.unrecoverable.default" = "Něco se pokazilo.\nKontaktujte prosím Technickou podporu.";
+
+"com.auth0.lock.error.unrecoverable.invalid_credentials" = "Vaše Auth0 ověření ClientID a/nebo Doména jsou neplatné.";
+
+"com.auth0.lock.error.unrecoverable.invalid_options" = "Nastavení konfigurace selhalo s: %1$@";
+
+"com.auth0.lock.error.unrecoverable.message" = "Došlo k neočekáváné chybě při nastavení přihlašovacího pole.";
+
+"com.auth0.lock.error.unrecoverable.message.no_action" = "Došlo k neočekáváné chybě při nastavení přihlašovacího pole, kontaktujte prosím Technickou podporu.";
+
+"com.auth0.lock.error.unrecoverable.no_connections" = "Pro tohoto klienta nenalezeny žádné metody ověřování. zkontrolujte nastavení vašeho klienta.";
+
+"com.auth0.lock.error.unrecoverable.title" = "Váš požadavek nelze vyřešit";
+
+"com.auth0.lock.forgot.message" = "Zadejte svůj email a nové heslo. Zašleme vám email s potvrzením změny hesla.";
+
+"com.auth0.lock.forgot.title" = "Obnovit heslo";
+
+"com.auth0.lock.header.default_title" = "Auth0";
+
+"com.auth0.lock.input.email.error" = "Musí být platný email";
+
+"com.auth0.lock.input.email.placeholder" = "Email";
+
+"com.auth0.lock.input.email_username.placeholder" = "Uživatelské jméno/Email";
+
+"com.auth0.lock.input.empty.error" = "Nesmí být prázdné";
+
+"com.auth0.lock.input.generic.error" = "Neplatný přístup";
+
+"com.auth0.lock.input.otp.error" = "Musí být platný číselný kód";
+
+"com.auth0.lock.input.otp.placeholder" = "Kód";
+
+"com.auth0.lock.input.password.placeholder" = "Heslo";
+
+"com.auth0.lock.input.phone.error" = "Platné telefonní číslo";
+
+"com.auth0.lock.input.phone.placeholder" = "Telefonní číslo";
+
+"com.auth0.lock.input.policy.error" = "Heslo nesplňuje podmínky";
+
+"com.auth0.lock.input.username.error" = "Může obsahovat pouze mezi %d až %d alfanumerickými znaky a '_'.";
+
+"com.auth0.lock.input.username.placeholder" = "Uživatelské jméno";
+
+"com.auth0.lock.multifactor.message" = "Zadejte prosím ověřovací kód vygenerovaný aplikací.";
+
+"com.auth0.lock.multifactor.title" = "Ověření ve dvou krocích";
+
+"com.auth0.lock.passwordless.sms.country.header" = "Vyberte zemi";
+
+"com.auth0.lock.passwordless.sms.country.search" = "Hledat";
+
+"com.auth0.lock.strategy.localized.amazon" = "AMAZON";
+
+"com.auth0.lock.strategy.localized.aol" = "AOL";
+
+"com.auth0.lock.strategy.localized.baidu" = "百度";
+
+"com.auth0.lock.strategy.localized.bitbucket" = "BITBUCKET";
+
+"com.auth0.lock.strategy.localized.dropbox" = "DROPBOX";
+
+"com.auth0.lock.strategy.localized.dwolla" = "DWOLLA";
+
+"com.auth0.lock.strategy.localized.ebay" = "EBAY";
+
+"com.auth0.lock.strategy.localized.evernote" = "EVERNOTE";
+
+"com.auth0.lock.strategy.localized.evernote_sandbox" = "EVERNOTE (SANDBOX)";
+
+"com.auth0.lock.strategy.localized.exact" = "EXACT";
+
+"com.auth0.lock.strategy.localized.facebook" = "FACEBOOK";
+
+"com.auth0.lock.strategy.localized.fitbit" = "FITBIT";
+
+"com.auth0.lock.strategy.localized.github" = "GITHUB";
+
+"com.auth0.lock.strategy.localized.google" = "GOOGLE";
+
+"com.auth0.lock.strategy.localized.instagram" = "INSTAGRAM";
+
+"com.auth0.lock.strategy.localized.linkedin" = "LINKEDIN";
+
+"com.auth0.lock.strategy.localized.microsoft" = "MICROSOFT účet";
+
+"com.auth0.lock.strategy.localized.miicard" = "MIICARD";
+
+"com.auth0.lock.strategy.localized.paypal" = "PAYPAL";
+
+"com.auth0.lock.strategy.localized.paypal_sandbox" = "PAYPAL (SANDBOX)";
+
+"com.auth0.lock.strategy.localized.planning_center" = "PLANNING CENTER";
+
+"com.auth0.lock.strategy.localized.renren" = "人人";
+
+"com.auth0.lock.strategy.localized.salesforce" = "SALESFORCE";
+
+"com.auth0.lock.strategy.localized.salesforce_community" = "SALESFORCE COMMUNITY";
+
+"com.auth0.lock.strategy.localized.salesforce_sandbox" = "SALESFORCE (SANDBOX)";
+
+"com.auth0.lock.strategy.localized.shopify" = "SHOPIFY";
+
+"com.auth0.lock.strategy.localized.soundcloud" = "SOUNDCLOUD";
+
+"com.auth0.lock.strategy.localized.the_city" = "THE CITY";
+
+"com.auth0.lock.strategy.localized.the_city_sandbox" = "THE CITY (SANDBOX)";
+
+"com.auth0.lock.strategy.localized.thirty_seven_signals" = "37 SIGNALS";
+
+"com.auth0.lock.strategy.localized.twitter" = "TWITTER";
+
+"com.auth0.lock.strategy.localized.vkontakte" = "VKONTAKTE";
+
+"com.auth0.lock.strategy.localized.weibo" = "新浪微博";
+
+"com.auth0.lock.strategy.localized.wordpress" = "WORDPRESS";
+
+"com.auth0.lock.strategy.localized.yahoo" = "YAHOO!";
+
+"com.auth0.lock.strategy.localized.yammer" = "YAMMER";
+
+"com.auth0.lock.strategy.localized.yandex" = "YANDEX";
+
+"com.auth0.lock.strategy.login.title" = "PŘIHLÁŠENÍ S %1$@";
+
+"com.auth0.lock.strategy.signup.title" = "REGISTRACE S %1$@";
+
+"com.auth0.lock.submit.login.title" = "PŘIHLÁŠENÍ";
+
+"com.auth0.lock.submit.send_code.title" = "POSLAT";
+
+"com.auth0.lock.submit.send_email.title" = "POSLAT EMAIL";
+
+"com.auth0.lock.submit.signup.title" = "REGISTRACE";
+
+"com.auth0.passwordless.code.reminder" = "Neobdržel jste kód?";
+
+"com.auth0.passwordless.email.code.sent" = "Byl odeslán email s kódem %1$@";
+
+"com.auth0.passwordless.email.title" = "Zadejte email pro vytvoření registrace.";
+
+"com.auth0.passwordless.email.title.social" = "V opačném případě zadejte svůj email pro přihlášení nebo vytvoření účtu.";
+
+"com.auth0.passwordless.link.reminder" = "Neobdržel jste odkaz?";
+
+"com.auth0.passwordless.link.sent" = "Poslali jsme vám odkaz k přihlášení %1$@";
+
+"com.auth0.passwordless.sms.code.sent" = "SMS s kódem byla odeslána na %1$@";
+
+"com.auth0.passwordless.sms.country.cell.detail" = "%1$@";
+
+"com.auth0.passwordless.sms.country.cell.label" = "%1$@";
+
+"com.auth0.passwordless.sms.title" = "Zadejte vaše telefonní číslo pro vytvoření registrace.";
+
+"com.auth0.passwordless.sms.title.social" = "Zadejte telefonní číslo pro přihlášení nebo vytvoření účtu.";
+
