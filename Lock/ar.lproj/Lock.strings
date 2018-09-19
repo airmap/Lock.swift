@@ -1,0 +1,380 @@
+/* Forgot password */
+"com.auth0.lock.database.button.forgot_password" = "لا تذكر كلمه السر الخاصة بك ؟";
+
+/* tos & privacy */
+"com.auth0.lock.database.button.tos" = "بالاشتراك ، فانك توافق علي شروط الخدمة وسياسة الخصوصية";
+
+/* forgot password email sent */
+"com.auth0.lock.database.forgot.success.message" = "لقد قمنا بإرسال بريد الكتروني للتو لأعاده تعيين كلمه المرور الخاصة بك";
+
+/* User logged in */
+"com.auth0.lock.database.login.success.message" = "لقد قمت بتسجيل الدخول بنجاح.";
+
+/* Login Switch */
+"com.auth0.lock.database.mode.switcher.login" = "تسجيل الدخول";
+
+/* Signup Switch */
+"com.auth0.lock.database.mode.switcher.signup" = "التسجيل";
+
+/* Social separator */
+"com.auth0.lock.database.separator" = "او";
+
+/* User signed up */
+"com.auth0.lock.database.signup.success.message" = "شكرا للتوقيع.";
+
+/* Cancel */
+"com.auth0.lock.database.tos.sheet.cancel" = "إلغاء الأمر";
+
+/* Privacy */
+"com.auth0.lock.database.tos.sheet.privacy" = "سياسة الخصوصية";
+
+/* ToS */
+"com.auth0.lock.database.tos.sheet.title" = "شروط الخدمة";
+
+/* enter corporate credentials */
+"com.auth0.lock.enterprise.sso.message" = "الرجاء إدخال بيانات اعتماد الشركة";
+
+/* enter corporate credentials of domain %@{email domain} */
+"com.auth0.lock.enterprise.sso.message_at" = "الرجاء إدخال بيانات اعتماد الشركة في %1$@";
+
+/* SSO Header */
+"com.auth0.lock.enterprise.sso.title" = "تمكين تسجيل الدخول الأحادي";
+
+/* user is blocked */
+"com.auth0.lock.error.authentication.blocked_user" = "تم حظر المستخدم.";
+
+/* Generic login error */
+"com.auth0.lock.error.authentication.fallback" = "نحن آسفون ، حدث خطا ما عند محاولة تسجيل الدخول.";
+
+/* invalid_user_password */
+"com.auth0.lock.error.authentication.invalid_user_password" = "بريد الكتروني أو كلمه مرور خاطئه.";
+
+/* a0.mfa_invalid_code */
+"com.auth0.lock.error.authentication.mfa_invalid_code" = "رمز خاطئ.";
+
+/* No valid connection */
+"com.auth0.lock.error.authentication.no_connection" = "نحن آسفون ، لم نتمكن من العثور علي اتصال صالح لهذا المستخدم.";
+
+/* password_change_required */
+"com.auth0.lock.error.authentication.password_change_required" = "تحتاج إلى تحديث كلمه المرور الخاصة بك لان هذه هي المرة الاولي التي تقوم بتسجيل الدخول ، أو لأنه قد انتهت مده صلاحيه كلمه المرور الخاصة بك.";
+
+/* password_leaked */
+"com.auth0.lock.error.authentication.password_leaked" = "تم حظر تسجيل الدخول هذا لأنه تم تسريب كلمه المرور الخاصة بك في موقع آخر. لقد أرسلنا لك رسالة بالبريد الكتروني مع تعليمات حول كيفيه إلغاء الحظر عليه.";
+
+/* too_many_attempts */
+"com.auth0.lock.error.authentication.too_many_attempts" = "تم حظر حسابك بعد عده محاولات لتسجيل الدخول علي التوالي.";
+
+/* Generic error */
+"com.auth0.lock.error.fallback" = "حدث خطا ما. \ n الرجاء الاتصال بالدعم الفني.";
+
+/* Generic password error */
+"com.auth0.lock.error.forgot.fallback" = "نحن آسفون ، حدث شيء خاطئ عند طلب تغيير كلمه المرور.";
+
+/* At least N characters */
+"com.auth0.lock.error.password.at_least_length" = "الاقل %d أحرف في الطول";
+
+/* At least n groups */
+"com.auth0.lock.error.password.contain_at_least" = "تحتوي علي ما لا يقل عن %d التالية %d أنواع الأحرف:";
+
+/* Lowercase letters */
+"com.auth0.lock.error.password.lowercase_letters" = "رسائل الحالات الدنيا (ا-ي)";
+
+/* Must no be empty */
+"com.auth0.lock.error.password.non_empty" = "مطلوب كلمه مرور غير فارغه";
+
+/* No more than %@{count} identical characters in a row (e.g., \"%@{identical sample}\" not allowed) */
+"com.auth0.lock.error.password.no_more_identical" = "لا أكثر من %1$d أحرف متطابقة في صف (علي سبيل المثال ، '%2$@'غير مسموح به";
+
+/* Numbers */
+"com.auth0.lock.error.password.numbers" = "أرقام ([اي.]. 0-9)";
+
+/* N groups */
+"com.auth0.lock.error.password.should_contain" = "يجب ان تحتوي علي:";
+
+/* Special Characters */
+"com.auth0.lock.error.password.special_characters" = "الأحرف الخاصة (علي سبيل المثال! @ # $% ^ & *)";
+
+/* Uppercase letters */
+"com.auth0.lock.error.password.uppercase_letters" = "حروف الحالة العليا (a-z)";
+
+/* Passwordless link invalid. */
+"com.auth0.lock.error.passwordless.invalid_link" = "نحن آسفون ، كانت هناك مشكله مع الارتباط الخاص بك. الرجاء طلب واحده جديده.";
+
+/* Passwordless sign ups disabled. */
+"com.auth0.lock.error.passwordless.signup_disabled" = "يتم تعطيل التسجيل الجديد UPS لهذا الحساب ، الرجاء الاتصال بالمسؤول.";
+
+/* Recoverable error button */
+"com.auth0.lock.error.recoverable.button" = "اعاده المحاوله";
+
+/* Recoverable error message */
+"com.auth0.lock.error.recoverable.message" = "يرجى التحقق من الاتصال بالإنترنت.";
+
+/* Recoverable error title */
+"com.auth0.lock.error.recoverable.title" = "لا يمكن تحميل مربع تسجيل الدخول";
+
+/* Generic sign up error */
+"com.auth0.lock.error.signup.fallback" = "نحن آسفون ، حدث خطا ما عند محاولة التسجيل.";
+
+/* invalid_password */
+"com.auth0.lock.error.signup.invalid_password" = "كلمه المرور غير صالحه.";
+
+/* password_dictionary_error */
+"com.auth0.lock.error.signup.password_dictionary_error" = "كلمه المرور شائعه جدا.";
+
+/* password_history */
+"com.auth0.lock.error.signup.password_history" = "تم استخدام كلمه المرور مسبقا.";
+
+/* password_no_user_info_error */
+"com.auth0.lock.error.signup.password_no_user_info_error" = "تعتمد كلمه المرور علي معلومات المستخدم.";
+
+/* password_strength_error */
+"com.auth0.lock.error.signup.password_strength_error" = "كلمه السر ضعيفه جدا.";
+
+/* user_exists */
+"com.auth0.lock.error.signup.user_exists" = "المستخدم موجود بالفعل.";
+
+/* Unrecoverable error button */
+"com.auth0.lock.error.unrecoverable.button" = "الاتصال بالدعم";
+
+/* Default error */
+"com.auth0.lock.error.unrecoverable.default" = "حدث خطا ما. \ n الرجاء الاتصال بالدعم الفني.";
+
+/* Invalid client or domain */
+"com.auth0.lock.error.unrecoverable.invalid_credentials" = "بيانات الاعتماد الخاصة بك auth0 clientid و/أو المجال غير صالحه.";
+
+/* Your options configuration failed with: %@{error} */
+"com.auth0.lock.error.unrecoverable.invalid_options" = "فشل تكوين الخيارات الخاصة بك مع: %1$@";
+
+/* Unrecoverable error message */
+"com.auth0.lock.error.unrecoverable.message" = "حدث خطا غير متوقع اثناء حل تكوين مربع تسجيل الدخول.";
+
+/* Unrecoverable error message */
+"com.auth0.lock.error.unrecoverable.message.no_action" = "حدث خطا غير متوقع اثناء حل تكوين مربع تسجيل الدخول ، الرجاء الاتصال بالدعم.";
+
+/* No connections */
+"com.auth0.lock.error.unrecoverable.no_connections" = "لم يتم العثور علي أساليب مصادقه لهذا العميل. الرجاء التحقق من اعداد العميل الخاص بك.";
+
+/* Unrecoverable error title */
+"com.auth0.lock.error.unrecoverable.title" = "لا يمكن حل طلبك";
+
+/* Forgot Password message */
+"com.auth0.lock.forgot.message" = "الرجاء إدخال البريد الكتروني وكلمه المرور الجديدة. سوف نرسل لك رسالة بالبريد الكتروني لتاكيد تغيير كلمه المرور.";
+
+/* Forgot Password title */
+"com.auth0.lock.forgot.title" = "أعاده تعيين كلمه المرور";
+
+/* Header Title */
+"com.auth0.lock.header.default_title" = "auth0";
+
+/* invalid email */
+"com.auth0.lock.input.email.error" = "يجب ان يكون عنوان بريد الكتروني صالح";
+
+/* Email placeholder */
+"com.auth0.lock.input.email.placeholder" = "البريد الالكتروني";
+
+/* Username or Email placeholder */
+"com.auth0.lock.input.email_username.placeholder" = "اسم المستخدم/البريد الكتروني";
+
+/* empty input */
+"com.auth0.lock.input.empty.error" = "يجب ان لا تكون فارغه";
+
+/* generic input error */
+"com.auth0.lock.input.generic.error" = "إدخال غير صالح";
+
+/* invalid otp */
+"com.auth0.lock.input.otp.error" = "يجب ان يكون رمزا رقميا صالحا";
+
+/* OTP placeholder */
+"com.auth0.lock.input.otp.placeholder" = "التعليمات البرمجيه";
+
+/* Password placeholder */
+"com.auth0.lock.input.password.placeholder" = "كلمه المرور";
+
+/* invalid phone */
+"com.auth0.lock.input.phone.error" = "يجب ان يكون رقم هاتف صالح";
+
+/* Phone placeholder */
+"com.auth0.lock.input.phone.placeholder" = "رقم الهاتف";
+
+/* policy violation */
+"com.auth0.lock.input.policy.error" = "كلمه المرور لا تفي بالسياسة";
+
+/* invalid username */
+"com.auth0.lock.input.username.error" = "يمكن ان تحتوي فقط بين %d ل %d أحرف ابجديه رقميه و '_'.";
+
+/* Username placeholder */
+"com.auth0.lock.input.username.placeholder" = "المستخدم";
+
+/* Multifactor message */
+"com.auth0.lock.multifactor.message" = "الرجاء إدخال رمز التحقق الذي تم إنشاؤه بواسطة تطبيق الهاتف الجوال.";
+
+/* Multifactor title */
+"com.auth0.lock.multifactor.title" = "التحقق من خطوتين";
+
+/* Country tableview navigation header */
+"com.auth0.lock.passwordless.sms.country.header" = "اختر بلدك";
+
+/* CountryCodes TableView searchbar placeholder */
+"com.auth0.lock.passwordless.sms.country.search" = "البحث";
+
+/* Amazon */
+"com.auth0.lock.strategy.localized.amazon" = "الامازون";
+
+/* Aol */
+"com.auth0.lock.strategy.localized.aol" = "Aol";
+
+/* Baidu */
+"com.auth0.lock.strategy.localized.baidu" = "百度";
+
+/* Bitbucket */
+"com.auth0.lock.strategy.localized.bitbucket" = "بيدلو";
+
+/* Dropbox */
+"com.auth0.lock.strategy.localized.dropbox" = "Dropbox";
+
+/* Dwolla */
+"com.auth0.lock.strategy.localized.dwolla" = "دوولا";
+
+/* Ebay */
+"com.auth0.lock.strategy.localized.ebay" = "موقع إي باي";
+
+/* Evernote */
+"com.auth0.lock.strategy.localized.evernote" = "Evernote";
+
+/* EvernoteSandbox */
+"com.auth0.lock.strategy.localized.evernote_sandbox" = "evernote (رمل)";
+
+/* Exact */
+"com.auth0.lock.strategy.localized.exact" = "الدقيق";
+
+/* Facebook */
+"com.auth0.lock.strategy.localized.facebook" = "ف يسبوك";
+
+/* Fitbit */
+"com.auth0.lock.strategy.localized.fitbit" = "FITBIT";
+
+/* Github */
+"com.auth0.lock.strategy.localized.github" = "جيثب";
+
+/* Google */
+"com.auth0.lock.strategy.localized.google" = "جوجل";
+
+/* Instagram */
+"com.auth0.lock.strategy.localized.instagram" = "اينستاجرام";
+
+/* Linkedin */
+"com.auth0.lock.strategy.localized.linkedin" = "Linkedin";
+
+/* Microsoft */
+"com.auth0.lock.strategy.localized.microsoft" = "حساب مايكروسوفت";
+
+/* Miicard */
+"com.auth0.lock.strategy.localized.miicard" = "miicard";
+
+/* Paypal */
+"com.auth0.lock.strategy.localized.paypal" = "بايبال";
+
+/* PaypalSandbox */
+"com.auth0.lock.strategy.localized.paypal_sandbox" = "بأي بال (رمل)";
+
+/* PlanningCenter */
+"com.auth0.lock.strategy.localized.planning_center" = "مركز التخطيط";
+
+/* RenRen */
+"com.auth0.lock.strategy.localized.renren" = "人人";
+
+/* Salesforce */
+"com.auth0.lock.strategy.localized.salesforce" = "Salesforce";
+
+/* SalesforceCommunity */
+"com.auth0.lock.strategy.localized.salesforce_community" = "جماعه المبيعات";
+
+/* SalesforceSandbox */
+"com.auth0.lock.strategy.localized.salesforce_sandbox" = "المبيعات القوه (رمل)";
+
+/* Shopify */
+"com.auth0.lock.strategy.localized.shopify" = "SHOPIFY";
+
+/* Soundcloud */
+"com.auth0.lock.strategy.localized.soundcloud" = "SOUNDCLOUD";
+
+/* TheCity */
+"com.auth0.lock.strategy.localized.the_city" = "المدينة";
+
+/* TheCitySandbox */
+"com.auth0.lock.strategy.localized.the_city_sandbox" = "المدينة (رمل)";
+
+/* ThirtySevenSignals */
+"com.auth0.lock.strategy.localized.thirty_seven_signals" = "37 إشارات الاشاره";
+
+/* Twitter */
+"com.auth0.lock.strategy.localized.twitter" = "التغريد";
+
+/* Vkontakte */
+"com.auth0.lock.strategy.localized.vkontakte" = "فكونتاكتي";
+
+/* Weibo */
+"com.auth0.lock.strategy.localized.weibo" = "新浪微博";
+
+/* Wordpress */
+"com.auth0.lock.strategy.localized.wordpress" = "ورد";
+
+/* Yahoo */
+"com.auth0.lock.strategy.localized.yahoo" = "ياهو!";
+
+/* Yammer */
+"com.auth0.lock.strategy.localized.yammer" = "YAMMER";
+
+/* Yandex */
+"com.auth0.lock.strategy.localized.yandex" = "ياندكس";
+
+/* Log in with %@{strategy} */
+"com.auth0.lock.strategy.login.title" = "تسجيل الدخول باستخدام %1$@";
+
+/* Sign up with %@{strategy} */
+"com.auth0.lock.strategy.signup.title" = "اشترك مع %1$@";
+
+/* Login Button title */
+"com.auth0.lock.submit.login.title" = "تسجيل الدخول";
+
+/* Send 2fa code */
+"com.auth0.lock.submit.send_code.title" = "ارسال";
+
+/* Send Email button title */
+"com.auth0.lock.submit.send_email.title" = "إرسال بريد الكتروني";
+
+/* Signup Button title */
+"com.auth0.lock.submit.signup.title" = "التسجيل";
+
+/* Passwordless code reminder action */
+"com.auth0.passwordless.code.reminder" = "الم تحصل علي الرمز ؟";
+
+/* Passwordless code sent by email to %@{identifier} */
+"com.auth0.passwordless.email.code.sent" = "وقد أرسلت رسالة بالبريد الكتروني مع رمز %1$@";
+
+/* Passwordless email title */
+"com.auth0.passwordless.email.title" = "ادخل بريدك الكتروني لتسجيل الدخول أو إنشاء حساب.";
+
+/* Passwordless email title with social */
+"com.auth0.passwordless.email.title.social" = "والا ، ادخل بريدك الكتروني لتسجيل الدخول أو إنشاء حساب.";
+
+/* Passwordless link reminder action */
+"com.auth0.passwordless.link.reminder" = "لم تتلق الرابط ؟";
+
+/* Passwordless link sent to %@{identifier} */
+"com.auth0.passwordless.link.sent" = "لقد أرسلنا لك رابطا لتسجيل الدخول إلى %1$@";
+
+/* Passwordless code sent by sms to %@{identifier} */
+"com.auth0.passwordless.sms.code.sent" = "تم إرسال رسالة نصيه قصيرة مع الرمز إلى %1$@";
+
+/* CountryCodes TableViewCell detail %@{phoneCode} */
+"com.auth0.passwordless.sms.country.cell.detail" = "%1$@";
+
+/* CountryCodes TableViewCell label %@{localizedName} */
+"com.auth0.passwordless.sms.country.cell.label" = "%1$@";
+
+/* Passwordless sms title */
+"com.auth0.passwordless.sms.title" = "ادخل هاتفك لتسجيل الدخول أو إنشاء حساب.";
+
+/* Passwordless sms title with social */
+"com.auth0.passwordless.sms.title.social" = "والا ، ادخل هاتفك لتسجيل الدخول أو إنشاء حساب.";

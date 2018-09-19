@@ -1,0 +1,380 @@
+/* Forgot password */
+"com.auth0.lock.database.button.forgot_password" = "Husker ikke passordet?";
+
+/* tos & privacy */
+"com.auth0.lock.database.button.tos" = "Ved å registrere deg, godtar du våre betingelser of\n service og personvern politikk";
+
+/* forgot password email sent */
+"com.auth0.lock.database.forgot.success.message" = "Vi har nettopp sendt deg en e-post til å tilbakestille passordet";
+
+/* User logged in */
+"com.auth0.lock.database.login.success.message" = "Du har logget på vellykket.";
+
+/* Login Switch */
+"com.auth0.lock.database.mode.switcher.login" = "logg på";
+
+/* Signup Switch */
+"com.auth0.lock.database.mode.switcher.signup" = "melde seg på";
+
+/* Social separator */
+"com.auth0.lock.database.separator" = "eller";
+
+/* User signed up */
+"com.auth0.lock.database.signup.success.message" = "Takk for innmeldingen.";
+
+/* Cancel */
+"com.auth0.lock.database.tos.sheet.cancel" = "Avbryt";
+
+/* Privacy */
+"com.auth0.lock.database.tos.sheet.privacy" = "Personvern";
+
+/* ToS */
+"com.auth0.lock.database.tos.sheet.title" = "Vilkår for bruk";
+
+/* enter corporate credentials */
+"com.auth0.lock.enterprise.sso.message" = "Angi firmalegitimasjon";
+
+/* enter corporate credentials of domain %@{email domain} */
+"com.auth0.lock.enterprise.sso.message_at" = "Angi firmalegitimasjon på %1$ @";
+
+/* SSO Header */
+"com.auth0.lock.enterprise.sso.title" = "SINGLE SIGN-ON AKTIVERT";
+
+/* user is blocked */
+"com.auth0.lock.error.authentication.blocked_user" = "BRUKEREN ER BLOKKERT.";
+
+/* Generic login error */
+"com.auth0.lock.error.authentication.fallback" = "VI BEKLAGER, NOE GIKK GALT NÅR DU FORSØKER Å LOGGE INN";
+
+/* invalid_user_password */
+"com.auth0.lock.error.authentication.invalid_user_password" = "FEIL EPOSTADRESSE ELLER PASSORD.";
+
+/* a0.mfa_invalid_code */
+"com.auth0.lock.error.authentication.mfa_invalid_code" = "FEIL KODE.";
+
+/* No valid connection */
+"com.auth0.lock.error.authentication.no_connection" = "BEKLAGER, VI IKKE KUNNE FINNE EN GYLDIG TILKOBLING FOR DENNE BRUKEREN.";
+
+/* password_change_required */
+"com.auth0.lock.error.authentication.password_change_required" = "DU MÅ OPPDATERE PASSORDET FORDI DETTE ER FØRSTE GANG DU LOGGER DEG PÅ, ELLER FORDI PASSORDET ER UTLØPT.";
+
+/* password_leaked */
+"com.auth0.lock.error.authentication.password_leaked" = "DENNE PÅLOGGINGEN ER BLOKKERT FORDI PASSORDET ER BLITT LEKKASJE I ET ANNET NETTSTED. VI HAR SENDT DEG EN E-POST MED INSTRUKSJONER OM HVORDAN Å OPPHEVE DEN.";
+
+/* too_many_attempts */
+"com.auth0.lock.error.authentication.too_many_attempts" = "KONTOEN ER BLOKKERT ETTER FLERE PÅFØLGENDE PÅLOGGINGSFORSØK.";
+
+/* Generic error */
+"com.auth0.lock.error.fallback" = "NOE gikk galt. \nPLEASE kontakt kundestøtte.";
+
+/* Generic password error */
+"com.auth0.lock.error.forgot.fallback" = "BEKLAGER, NOE GIKK GALT NÅR DU BER OM PASSORDENDRINGEN.";
+
+/* At least N characters */
+"com.auth0.lock.error.password.at_least_length" = "Minst %d tegn";
+
+/* At least n groups */
+"com.auth0.lock.error.password.contain_at_least" = "Inneholde minst %d av %d følgende tegn:";
+
+/* Lowercase letters */
+"com.auth0.lock.error.password.lowercase_letters" = "Små bokstaver (a-z)";
+
+/* Must no be empty */
+"com.auth0.lock.error.password.non_empty" = "Ikke-tom passord kreves";
+
+/* No more than %@{count} identical characters in a row (e.g., \"%@{identical sample}\" not allowed) */
+"com.auth0.lock.error.password.no_more_identical" = "Mer enn %1$d identiske tegn på rad (f.eks '%2$@' ikke tillatt)";
+
+/* Numbers */
+"com.auth0.lock.error.password.numbers" = "Tall (dvs. 0-9)";
+
+/* N groups */
+"com.auth0.lock.error.password.should_contain" = "Skal inneholde:";
+
+/* Special Characters */
+"com.auth0.lock.error.password.special_characters" = "Spesialtegn (f.eks! @# $% ^ & *)";
+
+/* Uppercase letters */
+"com.auth0.lock.error.password.uppercase_letters" = "Store bokstaver (A-Z)";
+
+/* Passwordless link invalid. */
+"com.auth0.lock.error.passwordless.invalid_link" = "BEKLAGER, DET OPPSTOD ET PROBLEM MED DIN LINK. VENNLIGST BE OM EN NY.";
+
+/* Passwordless sign ups disabled. */
+"com.auth0.lock.error.passwordless.signup_disabled" = "NYE SKILT UPS ER DEAKTIVERT FOR DENNE KONTOEN, KONTAKT SYSTEMANSVARLIG.";
+
+/* Recoverable error button */
+"com.auth0.lock.error.recoverable.button" = "Prøv på nytt";
+
+/* Recoverable error message */
+"com.auth0.lock.error.recoverable.message" = "Kontroller Internett-tilkoblingen.";
+
+/* Recoverable error title */
+"com.auth0.lock.error.recoverable.title" = "Kan ikke laste påloggingsboksen";
+
+/* Generic sign up error */
+"com.auth0.lock.error.signup.fallback" = "BEKLAGER, NOE GIKK GALT NÅR DU FORSØKER Å REGISTRERE DEG.";
+
+/* invalid_password */
+"com.auth0.lock.error.signup.invalid_password" = "PASSORDET ER UGYLDIG.";
+
+/* password_dictionary_error */
+"com.auth0.lock.error.signup.password_dictionary_error" = "PASSORD ER OGSÅ VANLIG.";
+
+/* password_history */
+"com.auth0.lock.error.signup.password_history" = "PASSORD HAR TIDLIGERE BLITT BRUKT.";
+
+/* password_no_user_info_error */
+"com.auth0.lock.error.signup.password_no_user_info_error" = "PASSORD ER BASERT PÅ BRUKERINFORMASJON.";
+
+/* password_strength_error */
+"com.auth0.lock.error.signup.password_strength_error" = "PASSORDET ER FOR SVAKT.";
+
+/* user_exists */
+"com.auth0.lock.error.signup.user_exists" = "BRUKEREN FINNES ALLEREDE.";
+
+/* Unrecoverable error button */
+"com.auth0.lock.error.unrecoverable.button" = "Kontakt kundestøtte";
+
+/* Default error */
+"com.auth0.lock.error.unrecoverable.default" = "Noe gikk galt. \nPlease kontakt kundestøtte.";
+
+/* Invalid client or domain */
+"com.auth0.lock.error.unrecoverable.invalid_credentials" = "Legitimasjonsbeskrivelsene Auth0 ClientId og/eller domenet er ugyldig.";
+
+/* Your options configuration failed with: %@{error} */
+"com.auth0.lock.error.unrecoverable.invalid_options" = "Alternativene konfigurasjonen mislyktes med: %1$@";
+
+/* Unrecoverable error message */
+"com.auth0.lock.error.unrecoverable.message" = "Det oppstod en uventet feil under løsing logikk for konfigurasjonen.";
+
+/* Unrecoverable error message */
+"com.auth0.lock.error.unrecoverable.message.no_action" = "Det oppstod en uventet feil i å løse logikk for konfigurasjonen, kontakt vennligst support.";
+
+/* No connections */
+"com.auth0.lock.error.unrecoverable.no_connections" = "Ingen godkjenningsmetoder funnet for denne klienten. Sjekk din klientinstallasjonen.";
+
+/* Unrecoverable error title */
+"com.auth0.lock.error.unrecoverable.title" = "Kan ikke løse forespørselen";
+
+/* Forgot Password message */
+"com.auth0.lock.forgot.message" = "Skriv inn din email og det nye passordet. Vi vil sende deg en e-post for å bekrefte passordendringen.";
+
+/* Forgot Password title */
+"com.auth0.lock.forgot.title" = "Tilbakestill passord";
+
+/* Header Title */
+"com.auth0.lock.header.default_title" = "Auth0";
+
+/* invalid email */
+"com.auth0.lock.input.email.error" = "Må være en gyldig e-postadresse";
+
+/* Email placeholder */
+"com.auth0.lock.input.email.placeholder" = "E-post";
+
+/* Username or Email placeholder */
+"com.auth0.lock.input.email_username.placeholder" = "Brukernavn/e-post";
+
+/* empty input */
+"com.auth0.lock.input.empty.error" = "Kan ikke være tomt";
+
+/* generic input error */
+"com.auth0.lock.input.generic.error" = "Ugyldige inndata";
+
+/* invalid otp */
+"com.auth0.lock.input.otp.error" = "Må være en gyldig numerisk kode";
+
+/* OTP placeholder */
+"com.auth0.lock.input.otp.placeholder" = "Kode";
+
+/* Password placeholder */
+"com.auth0.lock.input.password.placeholder" = "Passord";
+
+/* invalid phone */
+"com.auth0.lock.input.phone.error" = "Må være et gyldig telefonnummer";
+
+/* Phone placeholder */
+"com.auth0.lock.input.phone.placeholder" = "Telefonnummer";
+
+/* policy violation */
+"com.auth0.lock.input.policy.error" = "Passordet oppfyller ikke retningslinjene";
+
+/* invalid username */
+"com.auth0.lock.input.username.error" = "Kan bare inneholde mellom %d til %d alfanumeriske tegn og '_'.";
+
+/* Username placeholder */
+"com.auth0.lock.input.username.placeholder" = "Brukernavn";
+
+/* Multifactor message */
+"com.auth0.lock.multifactor.message" = "Skriv inn verifiseringskoden generert av din mobil.";
+
+/* Multifactor title */
+"com.auth0.lock.multifactor.title" = "To trinn bekreftelse";
+
+/* Country tableview navigation header */
+"com.auth0.lock.passwordless.sms.country.header" = "Velg ditt land";
+
+/* CountryCodes TableView searchbar placeholder */
+"com.auth0.lock.passwordless.sms.country.search" = "Søk";
+
+/* Amazon */
+"com.auth0.lock.strategy.localized.amazon" = "AMAZON";
+
+/* Aol */
+"com.auth0.lock.strategy.localized.aol" = "AOL";
+
+/* Baidu */
+"com.auth0.lock.strategy.localized.baidu" = "百度";
+
+/* Bitbucket */
+"com.auth0.lock.strategy.localized.bitbucket" = "BITBUCKET";
+
+/* Dropbox */
+"com.auth0.lock.strategy.localized.dropbox" = "DROPBOX";
+
+/* Dwolla */
+"com.auth0.lock.strategy.localized.dwolla" = "DWOLLA";
+
+/* Ebay */
+"com.auth0.lock.strategy.localized.ebay" = "EBAY";
+
+/* Evernote */
+"com.auth0.lock.strategy.localized.evernote" = "EVERNOTE";
+
+/* EvernoteSandbox */
+"com.auth0.lock.strategy.localized.evernote_sandbox" = "EVERNOTE (SANDBOX)";
+
+/* Exact */
+"com.auth0.lock.strategy.localized.exact" = "NØYAKTIG";
+
+/* Facebook */
+"com.auth0.lock.strategy.localized.facebook" = "FACEBOOK";
+
+/* Fitbit */
+"com.auth0.lock.strategy.localized.fitbit" = "FITBIT";
+
+/* Github */
+"com.auth0.lock.strategy.localized.github" = "GITHUB";
+
+/* Google */
+"com.auth0.lock.strategy.localized.google" = "GOOGLE";
+
+/* Instagram */
+"com.auth0.lock.strategy.localized.instagram" = "INSTAGRAM";
+
+/* Linkedin */
+"com.auth0.lock.strategy.localized.linkedin" = "LINKEDIN";
+
+/* Microsoft */
+"com.auth0.lock.strategy.localized.microsoft" = "MICROSOFT-KONTO";
+
+/* Miicard */
+"com.auth0.lock.strategy.localized.miicard" = "MIICARD";
+
+/* Paypal */
+"com.auth0.lock.strategy.localized.paypal" = "PAYPAL";
+
+/* PaypalSandbox */
+"com.auth0.lock.strategy.localized.paypal_sandbox" = "PAYPAL (SANDBOX)";
+
+/* PlanningCenter */
+"com.auth0.lock.strategy.localized.planning_center" = "PLANLEGGINGSMIDTPUNKT";
+
+/* RenRen */
+"com.auth0.lock.strategy.localized.renren" = "人人";
+
+/* Salesforce */
+"com.auth0.lock.strategy.localized.salesforce" = "SALESFORCE";
+
+/* SalesforceCommunity */
+"com.auth0.lock.strategy.localized.salesforce_community" = "SALESFORCE SAMFUNNET";
+
+/* SalesforceSandbox */
+"com.auth0.lock.strategy.localized.salesforce_sandbox" = "SALESFORCE (SANDBOX)";
+
+/* Shopify */
+"com.auth0.lock.strategy.localized.shopify" = "SHOPIFY";
+
+/* Soundcloud */
+"com.auth0.lock.strategy.localized.soundcloud" = "SOUNDCLOUD";
+
+/* TheCity */
+"com.auth0.lock.strategy.localized.the_city" = "BYEN";
+
+/* TheCitySandbox */
+"com.auth0.lock.strategy.localized.the_city_sandbox" = "BYEN (SANDBOX)";
+
+/* ThirtySevenSignals */
+"com.auth0.lock.strategy.localized.thirty_seven_signals" = "37 SIGNALDEL";
+
+/* Twitter */
+"com.auth0.lock.strategy.localized.twitter" = "TWITTER";
+
+/* Vkontakte */
+"com.auth0.lock.strategy.localized.vkontakte" = "VKONTAKTE";
+
+/* Weibo */
+"com.auth0.lock.strategy.localized.weibo" = "新浪微博";
+
+/* Wordpress */
+"com.auth0.lock.strategy.localized.wordpress" = "WORDPRESS";
+
+/* Yahoo */
+"com.auth0.lock.strategy.localized.yahoo" = "YAHOO!";
+
+/* Yammer */
+"com.auth0.lock.strategy.localized.yammer" = "YAMMER";
+
+/* Yandex */
+"com.auth0.lock.strategy.localized.yandex" = "YANDEX";
+
+/* Log in with %@{strategy} */
+"com.auth0.lock.strategy.login.title" = "LOGG PÅ MED %1$@";
+
+/* Sign up with %@{strategy} */
+"com.auth0.lock.strategy.signup.title" = "REGISTRER DEG MED %1$@";
+
+/* Login Button title */
+"com.auth0.lock.submit.login.title" = "logg på";
+
+/* Send 2fa code */
+"com.auth0.lock.submit.send_code.title" = "SENDE";
+
+/* Send Email button title */
+"com.auth0.lock.submit.send_email.title" = "SEND E-POST";
+
+/* Signup Button title */
+"com.auth0.lock.submit.signup.title" = "melde seg på";
+
+/* Passwordless code reminder action */
+"com.auth0.passwordless.code.reminder" = "Fikk ikke koden?";
+
+/* Passwordless code sent by email to %@{identifier} */
+"com.auth0.passwordless.email.code.sent" = "En email med koden er sendt til %1$ @";
+
+/* Passwordless email title */
+"com.auth0.passwordless.email.title" = "Skriv inn din epost for å logge på eller opprette en konto.";
+
+/* Passwordless email title with social */
+"com.auth0.passwordless.email.title.social" = "Ellers, gå inn din email for å logge på eller opprette en konto.";
+
+/* Passwordless link reminder action */
+"com.auth0.passwordless.link.reminder" = "Mottok ikke koblingen?";
+
+/* Passwordless link sent to %@{identifier} */
+"com.auth0.passwordless.link.sent" = "Vi har sendt deg et koblingen logge %1$@";
+
+/* Passwordless code sent by sms to %@{identifier} */
+"com.auth0.passwordless.sms.code.sent" = "En sms med koden er sendt til %1$@";
+
+/* CountryCodes TableViewCell detail %@{phoneCode} */
+"com.auth0.passwordless.sms.country.cell.detail" = "%1$@";
+
+/* CountryCodes TableViewCell label %@{localizedName} */
+"com.auth0.passwordless.sms.country.cell.label" = "%1$@";
+
+/* Passwordless sms title */
+"com.auth0.passwordless.sms.title" = "Angi at mobilen skal logge på eller logge.";
+
+/* Passwordless sms title with social */
+"com.auth0.passwordless.sms.title.social" = "Ellers angi telefonen logge på eller opprette en konto.";

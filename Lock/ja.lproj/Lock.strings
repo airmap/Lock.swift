@@ -1,179 +1,380 @@
+/* Forgot password */
 "com.auth0.lock.database.button.forgot_password" = "パスワードを忘れた場合";
 
+/* tos & privacy */
 "com.auth0.lock.database.button.tos" = "サービス規約とプライバシーポリシーに同意する必要があります";
 
+/* forgot password email sent */
 "com.auth0.lock.database.forgot.success.message" = "Eメールを送信しました、ご確認ください。";
 
+/* User logged in */
 "com.auth0.lock.database.login.success.message" = "ログイン完了";
 
+/* Login Switch */
 "com.auth0.lock.database.mode.switcher.login" = "ログイン";
 
+/* Signup Switch */
 "com.auth0.lock.database.mode.switcher.signup" = "サインアップ";
 
+/* Social separator */
 "com.auth0.lock.database.separator" = "or";
 
+/* User signed up */
 "com.auth0.lock.database.signup.success.message" = "サインアップ完了";
 
+/* Cancel */
 "com.auth0.lock.database.tos.sheet.cancel" = "キャンセル";
 
+/* Privacy */
 "com.auth0.lock.database.tos.sheet.privacy" = "プライバシーポリシー";
 
+/* ToS */
 "com.auth0.lock.database.tos.sheet.title" = "サービス規約";
 
+/* enter corporate credentials */
 "com.auth0.lock.enterprise.sso.message" = "法人のCredentialを入力してください";
 
+/* enter corporate credentials of domain %@{email domain} */
 "com.auth0.lock.enterprise.sso.message_at" = "%1$@ に法人のCredentialを入力してください";
 
+/* SSO Header */
 "com.auth0.lock.enterprise.sso.title" = "シングルサインオンが有効";
 
+/* user is blocked */
 "com.auth0.lock.error.authentication.blocked_user" = "ユーザはブロックされています";
 
+/* Generic login error */
 "com.auth0.lock.error.authentication.fallback" = "ログインの処理中にエラーが発生しました";
 
+/* invalid_user_password */
 "com.auth0.lock.error.authentication.invalid_user_password" = "メールアドレスまたはパスワードが違います";
 
+/* a0.mfa_invalid_code */
 "com.auth0.lock.error.authentication.mfa_invalid_code" = "コードが間違っています";
 
+/* No valid connection */
 "com.auth0.lock.error.authentication.no_connection" = "このユーザの接続確認ができませんでした";
 
+/* password_change_required */
 "com.auth0.lock.error.authentication.password_change_required" = "パスワードが無効になっています。パスワードを変更してください。";
 
+/* password_leaked */
 "com.auth0.lock.error.authentication.password_leaked" = "ログインがブロックされました。このパスワードは他のウェブサイトに流出している可能性があります。ブロックの解除方法をメールで送信しました。";
 
+/* too_many_attempts */
 "com.auth0.lock.error.authentication.too_many_attempts" = "ログインに連続して失敗したためアカウントがブロックされました";
 
+/* Generic error */
 "com.auth0.lock.error.fallback" = "不明なエラーが発生しました\nテクニカルサポートに連絡してください";
 
+/* Generic password error */
 "com.auth0.lock.error.forgot.fallback" = "パスワードの変更に失敗しました";
 
+/* At least N characters */
 "com.auth0.lock.error.password.at_least_length" = "%d 文字以上が必要";
 
+/* At least n groups */
 "com.auth0.lock.error.password.contain_at_least" = "次のうち %d 種類が必要";
 
+/* Lowercase letters */
 "com.auth0.lock.error.password.lowercase_letters" = "小文字（a-z）";
 
+/* Must no be empty */
 "com.auth0.lock.error.password.non_empty" = "パスワード入力が必要";
 
+/* No more than %@{count} identical characters in a row (e.g., \"%@{identical sample}\" not allowed) */
 "com.auth0.lock.error.password.no_more_identical" = "%1$d 文字以上同じ文字は不可（例：%2$@ ）";
 
+/* Numbers */
 "com.auth0.lock.error.password.numbers" = "数字（0-9）";
 
+/* N groups */
 "com.auth0.lock.error.password.should_contain" = "含むべき文字：";
 
+/* Special Characters */
 "com.auth0.lock.error.password.special_characters" = "記号（!@#$%^&*）";
 
+/* Uppercase letters */
 "com.auth0.lock.error.password.uppercase_letters" = "大文字（A-Z）";
 
+/* Passwordless link invalid. */
 "com.auth0.lock.error.passwordless.invalid_link" = "リンクに問題があります、他のものを試してください。";
 
+/* Passwordless sign ups disabled. */
 "com.auth0.lock.error.passwordless.signup_disabled" = "このアカウントでのサインアップはブロックされています。管理者に問い合わせてください。";
 
+/* Recoverable error button */
 "com.auth0.lock.error.recoverable.button" = "リトライ";
 
+/* Recoverable error message */
 "com.auth0.lock.error.recoverable.message" = "インターネット接続を確認してください";
 
+/* Recoverable error title */
 "com.auth0.lock.error.recoverable.title" = "ログインボックスを読み込めませんでした";
 
+/* Generic sign up error */
 "com.auth0.lock.error.signup.fallback" = "サインアップ中にエラーが発生しました";
 
+/* invalid_password */
 "com.auth0.lock.error.signup.invalid_password" = "パスワードが不適切です。上記ルールをご確認ください。";
 
+/* password_dictionary_error */
 "com.auth0.lock.error.signup.password_dictionary_error" = "推測しやすいパスワードです";
 
+/* password_history */
 "com.auth0.lock.error.signup.password_history" = "前のパスワードと同じものは使えません";
 
+/* password_no_user_info_error */
 "com.auth0.lock.error.signup.password_no_user_info_error" = "パスワードにユーザー情報が含まれています。";
 
+/* password_strength_error */
 "com.auth0.lock.error.signup.password_strength_error" = "パスワードが弱すぎます。";
 
+/* user_exists */
 "com.auth0.lock.error.signup.user_exists" = "このユーザーはすでに存在します。ログイン画面からログインしてください。";
 
+/* Unrecoverable error button */
 "com.auth0.lock.error.unrecoverable.button" = "問い合わせ";
 
+/* Default error */
 "com.auth0.lock.error.unrecoverable.default" = "不明なエラーが発生しました。\nテクニカルサポートに連絡してください。";
 
+/* Invalid client or domain */
 "com.auth0.lock.error.unrecoverable.invalid_credentials" = "Auth0 Credential、Client ID、ドメイン、のいずれかが不正です。";
 
+/* Your options configuration failed with: %@{error} */
 "com.auth0.lock.error.unrecoverable.invalid_options" = "オプション設定に失敗しました ：%1$@";
 
+/* Unrecoverable error message */
 "com.auth0.lock.error.unrecoverable.message" = "ログインボックス設定の解決中に予期せぬエラーが発生しました";
 
+/* Unrecoverable error message */
 "com.auth0.lock.error.unrecoverable.message.no_action" = "ログインボックス設定の解決中に予期せぬエラーが発生しました。サポートに連絡してください。";
 
+/* No connections */
 "com.auth0.lock.error.unrecoverable.no_connections" = "このクライアントで有効な認証方式がありません。クライアントのセットアップを確認してください。";
 
+/* Unrecoverable error title */
 "com.auth0.lock.error.unrecoverable.title" = "リクエストを解決できません";
 
+/* Forgot Password message */
 "com.auth0.lock.forgot.message" = "メールアドレスと新しいパスワードを入力してください。確認のためEメールを送信します。";
 
+/* Forgot Password title */
 "com.auth0.lock.forgot.title" = "パスワードをリセット";
 
+/* Header Title */
 "com.auth0.lock.header.default_title" = "Auth0";
 
+/* invalid email */
 "com.auth0.lock.input.email.error" = "有効なメールアドレスをご利用ください";
 
+/* Email placeholder */
 "com.auth0.lock.input.email.placeholder" = "メールアドレス";
 
+/* Username or Email placeholder */
 "com.auth0.lock.input.email_username.placeholder" = "ユーザー名／メールアドレス";
 
+/* empty input */
 "com.auth0.lock.input.empty.error" = "空にはできません";
 
+/* generic input error */
 "com.auth0.lock.input.generic.error" = "無効です";
 
+/* invalid otp */
 "com.auth0.lock.input.otp.error" = "有効な数字でなければいけません";
 
+/* OTP placeholder */
 "com.auth0.lock.input.otp.placeholder" = "コード";
 
+/* Password placeholder */
 "com.auth0.lock.input.password.placeholder" = "パスワード";
 
+/* invalid phone */
 "com.auth0.lock.input.phone.error" = "有効な電話番号を入力してください";
 
+/* Phone placeholder */
 "com.auth0.lock.input.phone.placeholder" = "電話番号";
 
+/* policy violation */
 "com.auth0.lock.input.policy.error" = "パスワードがポリシーを満たしていません";
 
+/* invalid username */
 "com.auth0.lock.input.username.error" = "%d から %d の英数字と _ (アンダーバー)のみ含めることができます";
 
+/* Username placeholder */
 "com.auth0.lock.input.username.placeholder" = "ユーザー名";
 
+/* Multifactor message */
 "com.auth0.lock.multifactor.message" = "あなたのアプリで生成した確認コードを入力してください";
 
+/* Multifactor title */
 "com.auth0.lock.multifactor.title" = "2段階認証";
 
+/* Country tableview navigation header */
 "com.auth0.lock.passwordless.sms.country.header" = "国を選択してください";
 
+/* CountryCodes TableView searchbar placeholder */
 "com.auth0.lock.passwordless.sms.country.search" = "検索";
 
+/* Amazon */
 "com.auth0.lock.strategy.localized.amazon" = "AMAZON";
 
+/* Aol */
 "com.auth0.lock.strategy.localized.aol" = "AOL";
 
+/* Baidu */
+"com.auth0.lock.strategy.localized.baidu" = "百度";
+
+/* Bitbucket */
+"com.auth0.lock.strategy.localized.bitbucket" = "BITBUCKET";
+
+/* Dropbox */
+"com.auth0.lock.strategy.localized.dropbox" = "DROPBOX";
+
+/* Dwolla */
+"com.auth0.lock.strategy.localized.dwolla" = "DWOLLA";
+
+/* Ebay */
+"com.auth0.lock.strategy.localized.ebay" = "EBAY";
+
+/* Evernote */
+"com.auth0.lock.strategy.localized.evernote" = "EVERNOTE";
+
+/* EvernoteSandbox */
+"com.auth0.lock.strategy.localized.evernote_sandbox" = "EVERNOTE (SANDBOX)";
+
+/* Exact */
+"com.auth0.lock.strategy.localized.exact" = "EXACT";
+
+/* Facebook */
+"com.auth0.lock.strategy.localized.facebook" = "FACEBOOK";
+
+/* Fitbit */
+"com.auth0.lock.strategy.localized.fitbit" = "FITBIT";
+
+/* Github */
+"com.auth0.lock.strategy.localized.github" = "GITHUB";
+
+/* Google */
+"com.auth0.lock.strategy.localized.google" = "GOOGLE";
+
+/* Instagram */
+"com.auth0.lock.strategy.localized.instagram" = "INSTAGRAM";
+
+/* Linkedin */
+"com.auth0.lock.strategy.localized.linkedin" = "LINKEDIN";
+
+/* Microsoft */
+"com.auth0.lock.strategy.localized.microsoft" = "MICROSOFT ACCOUNT";
+
+/* Miicard */
+"com.auth0.lock.strategy.localized.miicard" = "MIICARD";
+
+/* Paypal */
+"com.auth0.lock.strategy.localized.paypal" = "PAYPAL";
+
+/* PaypalSandbox */
+"com.auth0.lock.strategy.localized.paypal_sandbox" = "PAYPAL (SANDBOX)";
+
+/* PlanningCenter */
+"com.auth0.lock.strategy.localized.planning_center" = "PLANNING CENTER";
+
+/* RenRen */
+"com.auth0.lock.strategy.localized.renren" = "人人";
+
+/* Salesforce */
+"com.auth0.lock.strategy.localized.salesforce" = "SALESFORCE";
+
+/* SalesforceCommunity */
+"com.auth0.lock.strategy.localized.salesforce_community" = "SALESFORCE COMMUNITY";
+
+/* SalesforceSandbox */
+"com.auth0.lock.strategy.localized.salesforce_sandbox" = "SALESFORCE (SANDBOX)";
+
+/* Shopify */
+"com.auth0.lock.strategy.localized.shopify" = "SHOPIFY";
+
+/* Soundcloud */
+"com.auth0.lock.strategy.localized.soundcloud" = "SOUNDCLOUD";
+
+/* TheCity */
+"com.auth0.lock.strategy.localized.the_city" = "THE CITY";
+
+/* TheCitySandbox */
+"com.auth0.lock.strategy.localized.the_city_sandbox" = "THE CITY (SANDBOX)";
+
+/* ThirtySevenSignals */
+"com.auth0.lock.strategy.localized.thirty_seven_signals" = "37 SIGNALS";
+
+/* Twitter */
+"com.auth0.lock.strategy.localized.twitter" = "TWITTER";
+
+/* Vkontakte */
+"com.auth0.lock.strategy.localized.vkontakte" = "VKONTAKTE";
+
+/* Weibo */
+"com.auth0.lock.strategy.localized.weibo" = "WEIBO";
+
+/* Wordpress */
+"com.auth0.lock.strategy.localized.wordpress" = "WORDPRESS";
+
+/* Yahoo */
+"com.auth0.lock.strategy.localized.yahoo" = "YAHOO!";
+
+/* Yammer */
+"com.auth0.lock.strategy.localized.yammer" = "YAMMER";
+
+/* Yandex */
+"com.auth0.lock.strategy.localized.yandex" = "YANDEX";
+
+/* Log in with %@{strategy} */
 "com.auth0.lock.strategy.login.title" = "%1$@ でログイン";
 
+/* Sign up with %@{strategy} */
 "com.auth0.lock.strategy.signup.title" = "%1$@ でサインアップ";
 
+/* Login Button title */
 "com.auth0.lock.submit.login.title" = "ログイン";
 
+/* Send 2fa code */
 "com.auth0.lock.submit.send_code.title" = "送信";
 
+/* Send Email button title */
 "com.auth0.lock.submit.send_email.title" = "送信";
 
+/* Signup Button title */
 "com.auth0.lock.submit.signup.title" = "サインアップ";
 
+/* Passwordless code reminder action */
 "com.auth0.passwordless.code.reminder" = "コードを取得していますか？";
 
+/* Passwordless code sent by email to %@{identifier} */
 "com.auth0.passwordless.email.code.sent" = "%1$@ にコードを送信しました";
 
+/* Passwordless email title */
 "com.auth0.passwordless.email.title" = "メールアドレスを入力してください";
 
+/* Passwordless email title with social */
 "com.auth0.passwordless.email.title.social" = "または、メールアドレスを入力してください。";
 
+/* Passwordless link reminder action */
 "com.auth0.passwordless.link.reminder" = "リンクを受信していますか？";
 
+/* Passwordless link sent to %@{identifier} */
 "com.auth0.passwordless.link.sent" = "サインインするためのリンクを %1$@ へ送りました";
 
+/* Passwordless code sent by sms to %@{identifier} */
 "com.auth0.passwordless.sms.code.sent" = "%1$@ へ確認コードをSMSで送信しました";
 
+/* CountryCodes TableViewCell detail %@{phoneCode} */
+"com.auth0.passwordless.sms.country.cell.detail" = "%1$@";
+
+/* CountryCodes TableViewCell label %@{localizedName} */
+"com.auth0.passwordless.sms.country.cell.label" = "%1$@";
+
+/* Passwordless sms title */
 "com.auth0.passwordless.sms.title" = "サインインに使用する電話番号を入力してください";
 
+/* Passwordless sms title with social */
 "com.auth0.passwordless.sms.title.social" = "または、サインインに使用する電話番号を入力してください。";

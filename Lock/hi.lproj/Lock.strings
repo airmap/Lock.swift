@@ -1,0 +1,380 @@
+/* Forgot password */
+"com.auth0.lock.database.button.forgot_password" = "अपना पासवर्ड याद नहीं है?";
+
+/* tos & privacy */
+"com.auth0.lock.database.button.tos" = "साइन अप करके, आप हमारी शर्तें of\n सेवा और गोपनीयता नीति से सहमत हैं";
+
+/* forgot password email sent */
+"com.auth0.lock.database.forgot.success.message" = "हमने आपका पासवर्ड रीसेट करने के लिए आपको बस एक ईमेल भेजा है";
+
+/* User logged in */
+"com.auth0.lock.database.login.success.message" = "आपने सफलतापूर्वक में लॉग इन किया है ।";
+
+/* Login Switch */
+"com.auth0.lock.database.mode.switcher.login" = "लॉग इन करो";
+
+/* Signup Switch */
+"com.auth0.lock.database.mode.switcher.signup" = "नाम लिखो";
+
+/* Social separator */
+"com.auth0.lock.database.separator" = "या";
+
+/* User signed up */
+"com.auth0.lock.database.signup.success.message" = "साइन अप करने के लिए धंयवाद ।";
+
+/* Cancel */
+"com.auth0.lock.database.tos.sheet.cancel" = "रद्द करना";
+
+/* Privacy */
+"com.auth0.lock.database.tos.sheet.privacy" = "गोपनीयता नीति";
+
+/* ToS */
+"com.auth0.lock.database.tos.sheet.title" = "सेवा की शर्तें";
+
+/* enter corporate credentials */
+"com.auth0.lock.enterprise.sso.message" = "कृपया अपनी कॉर्पोरेट साख दर्ज करें";
+
+/* enter corporate credentials of domain %@{email domain} */
+"com.auth0.lock.enterprise.sso.message_at" = "कृपया अपने कॉर्पोरेट क्रेडेंशियल्स पर दर्ज करें %1$@";
+
+/* SSO Header */
+"com.auth0.lock.enterprise.sso.title" = "एकल साइन-ऑन सक्षम किया गया";
+
+/* user is blocked */
+"com.auth0.lock.error.authentication.blocked_user" = "उपयोगकर्ता अवरोधित किया गया है ।";
+
+/* Generic login error */
+"com.auth0.lock.error.authentication.fallback" = "हमें खेद है, कुछ गलत हो गया जब में प्रवेश करने का प्रयास कर रहे हैं ।";
+
+/* invalid_user_password */
+"com.auth0.lock.error.authentication.invalid_user_password" = "गलत ईमेल या पासवर्ड ।";
+
+/* a0.mfa_invalid_code */
+"com.auth0.lock.error.authentication.mfa_invalid_code" = "गलत कोड ।";
+
+/* No valid connection */
+"com.auth0.lock.error.authentication.no_connection" = "हमें खेद है, हम इस उपयोगकर्ता के लिए कोई मांय कनेक्शन नहीं ढूंढ सके ।";
+
+/* password_change_required */
+"com.auth0.lock.error.authentication.password_change_required" = "आपको अपना पासवर्ड अद्यतन करने की आवश्यकता है क्योंकि यह पहली बार है जब आप लॉगिन कर रहे हैं, या आपके पासवर्ड की समयसीमा समाप्त हो गई है ।";
+
+/* password_leaked */
+"com.auth0.lock.error.authentication.password_leaked" = "यह लॉगिन अवरोधित कर दिया गया है क्योंकि आपका पासवर्ड किसी अंय वेबसाइट में लीक हो गया है । हमने आपको इसे अनवरोधित करने के निर्देशों के साथ एक ईमेल भेजा है ।";
+
+/* too_many_attempts */
+"com.auth0.lock.error.authentication.too_many_attempts" = "एकाधिक लगातार लॉगिन प्रयासों के बाद आपका खाता अवरोधित कर दिया गया है ।";
+
+/* Generic error */
+"com.auth0.lock.error.fallback" = "कुछ गलत हो गया. \ nPLEASE तकनीकी समर्थन से संपर्क करें ।";
+
+/* Generic password error */
+"com.auth0.lock.error.forgot.fallback" = "हमें खेद है, कुछ गलत हो गया जब पासवर्ड परिवर्तन का अनुरोध कर रहे हैं ।";
+
+/* At least N characters */
+"com.auth0.lock.error.password.at_least_length" = "से कम %d लंबाई में वर्ण";
+
+/* At least n groups */
+"com.auth0.lock.error.password.contain_at_least" = "इसमें कम-से %d निंन में से %d वर्णों के प्रकार:";
+
+/* Lowercase letters */
+"com.auth0.lock.error.password.lowercase_letters" = "लोअर केस लेटर्स (a-z)";
+
+/* Must no be empty */
+"com.auth0.lock.error.password.non_empty" = "गैर-रिक्त पासवर्ड आवश्यक";
+
+/* No more than %@{count} identical characters in a row (e.g., \"%@{identical sample}\" not allowed) */
+"com.auth0.lock.error.password.no_more_identical" = "से अधिक नहीं %1$d एक पंक्ति में समान वर्ण (उदा., '%2$@' अनुमति नहीं है)";
+
+/* Numbers */
+"com.auth0.lock.error.password.numbers" = "संख्याएं (यानी 0-9)";
+
+/* N groups */
+"com.auth0.lock.error.password.should_contain" = "शामिल होना चाहिए:";
+
+/* Special Characters */
+"com.auth0.lock.error.password.special_characters" = "विशेष वर्ण (उदा.! @ # $% ^ & *)";
+
+/* Uppercase letters */
+"com.auth0.lock.error.password.uppercase_letters" = "अपर प्रकरण पत्र (A-Z)";
+
+/* Passwordless link invalid. */
+"com.auth0.lock.error.passwordless.invalid_link" = "हमें खेद है, वहां अपने लिंक के साथ एक समस्या थी । कृपया एक नया अनुरोध करें ।";
+
+/* Passwordless sign ups disabled. */
+"com.auth0.lock.error.passwordless.signup_disabled" = "इस खाते के लिए नए साइन अप अक्षम हैं, कृपया अपने व्यवस्थापक से संपर्क करें ।";
+
+/* Recoverable error button */
+"com.auth0.lock.error.recoverable.button" = "पुनर्प्रयास";
+
+/* Recoverable error message */
+"com.auth0.lock.error.recoverable.message" = "कृपया अपने इंटरनेट कनेक्शन की जांच करें ।";
+
+/* Recoverable error title */
+"com.auth0.lock.error.recoverable.title" = "लॉगिन बॉक्स लोड नहीं कर सकता";
+
+/* Generic sign up error */
+"com.auth0.lock.error.signup.fallback" = "हमें खेद है, कुछ गलत हो गया जब साइन अप करने का प्रयास कर रहे हैं ।";
+
+/* invalid_password */
+"com.auth0.lock.error.signup.invalid_password" = "पासवर्ड अमांय है ।";
+
+/* password_dictionary_error */
+"com.auth0.lock.error.signup.password_dictionary_error" = "पासवर्ड बहुत सामांय है ।";
+
+/* password_history */
+"com.auth0.lock.error.signup.password_history" = "पासवर्ड पहले उपयोग किया गया है ।";
+
+/* password_no_user_info_error */
+"com.auth0.lock.error.signup.password_no_user_info_error" = "पासवर्ड उपयोगकर्ता जानकारी पर आधारित है ।";
+
+/* password_strength_error */
+"com.auth0.lock.error.signup.password_strength_error" = "पासवर्ड बहुत कमज़ोर है ।";
+
+/* user_exists */
+"com.auth0.lock.error.signup.user_exists" = "उपयोगकर्ता पहले से मौजूद है ।";
+
+/* Unrecoverable error button */
+"com.auth0.lock.error.unrecoverable.button" = "समर्थन से संपर्क करें";
+
+/* Default error */
+"com.auth0.lock.error.unrecoverable.default" = "कुछ गलत हो गया. \ nPLEASE तकनीकी समर्थन से संपर्क करें ।";
+
+/* Invalid client or domain */
+"com.auth0.lock.error.unrecoverable.invalid_credentials" = "आपके Auth0 क्रेडेंशियल्स ClientId और/या डोमेन अमांय हैं ।";
+
+/* Your options configuration failed with: %@{error} */
+"com.auth0.lock.error.unrecoverable.invalid_options" = "आपके विकल्प कॉंफ़िगरेशन के साथ विफल: %1$@";
+
+/* Unrecoverable error message */
+"com.auth0.lock.error.unrecoverable.message" = "लॉगिन बॉक्स कॉंफ़िगरेशन को हल करते समय कोई अप्रत्याशित त्रुटि आई ।";
+
+/* Unrecoverable error message */
+"com.auth0.lock.error.unrecoverable.message.no_action" = "लॉगिन बॉक्स कॉंफ़िगरेशन को हल करते समय कोई अप्रत्याशित त्रुटि आई, कृपया समर्थन से संपर्क करें ।";
+
+/* No connections */
+"com.auth0.lock.error.unrecoverable.no_connections" = "इस क्लाइंट के लिए कोई प्रमाणन विधि नहीं मिली । कृपया अपने क्लाइंट सेटअप की जांच करें ।";
+
+/* Unrecoverable error title */
+"com.auth0.lock.error.unrecoverable.title" = "आपके अनुरोध को हल नहीं कर सकता";
+
+/* Forgot Password message */
+"com.auth0.lock.forgot.message" = "कृपया अपना ईमेल और नया पासवर्ड दर्ज करें । हम आपको पासवर्ड परिवर्तन की पुष्टि करने के लिए एक ईमेल भेजेंगे ।";
+
+/* Forgot Password title */
+"com.auth0.lock.forgot.title" = "पासवर्ड रीसेट करें";
+
+/* Header Title */
+"com.auth0.lock.header.default_title" = "Auth0";
+
+/* invalid email */
+"com.auth0.lock.input.email.error" = "कोई मांय ईमेल पता होना चाहिए";
+
+/* Email placeholder */
+"com.auth0.lock.input.email.placeholder" = "ईमेल";
+
+/* Username or Email placeholder */
+"com.auth0.lock.input.email_username.placeholder" = "प्रयोक्ता नाम ईमेल/";
+
+/* empty input */
+"com.auth0.lock.input.empty.error" = "खाली नहीं होना चाहिए";
+
+/* generic input error */
+"com.auth0.lock.input.generic.error" = "अमांय इनपुट";
+
+/* invalid otp */
+"com.auth0.lock.input.otp.error" = "कोई मांय सांख्यिक कोड होना आवश्यक है";
+
+/* OTP placeholder */
+"com.auth0.lock.input.otp.placeholder" = "कोड";
+
+/* Password placeholder */
+"com.auth0.lock.input.password.placeholder" = "पासवर्ड";
+
+/* invalid phone */
+"com.auth0.lock.input.phone.error" = "कोई मांय फ़ोन नंबर होना आवश्यक है";
+
+/* Phone placeholder */
+"com.auth0.lock.input.phone.placeholder" = "फोन नंबर";
+
+/* policy violation */
+"com.auth0.lock.input.policy.error" = "पासवर्ड नीति को पूरा नहीं करता";
+
+/* invalid username */
+"com.auth0.lock.input.username.error" = "के बीच ही हो सकता है %d को %d अल्फ़ांयूमेरिक वर्ण और '_' ।";
+
+/* Username placeholder */
+"com.auth0.lock.input.username.placeholder" = "उपयोगकर्ता";
+
+/* Multifactor message */
+"com.auth0.lock.multifactor.message" = "कृपया अपने मोबाइल अनुप्रयोग द्वारा जेनरेट किया गया सत्यापन कोड दर्ज करें ।";
+
+/* Multifactor title */
+"com.auth0.lock.multifactor.title" = "दो चरणीय सत् यापन";
+
+/* Country tableview navigation header */
+"com.auth0.lock.passwordless.sms.country.header" = "अपने देश का चयन करें";
+
+/* CountryCodes TableView searchbar placeholder */
+"com.auth0.lock.passwordless.sms.country.search" = "खोज";
+
+/* Amazon */
+"com.auth0.lock.strategy.localized.amazon" = "अमेज़न";
+
+/* Aol */
+"com.auth0.lock.strategy.localized.aol" = "एओएल";
+
+/* Baidu */
+"com.auth0.lock.strategy.localized.baidu" = "百度";
+
+/* Bitbucket */
+"com.auth0.lock.strategy.localized.bitbucket" = "BITBUCKET";
+
+/* Dropbox */
+"com.auth0.lock.strategy.localized.dropbox" = "Dropbox";
+
+/* Dwolla */
+"com.auth0.lock.strategy.localized.dwolla" = "DWOLLA";
+
+/* Ebay */
+"com.auth0.lock.strategy.localized.ebay" = "Ebay";
+
+/* Evernote */
+"com.auth0.lock.strategy.localized.evernote" = "Evernote";
+
+/* EvernoteSandbox */
+"com.auth0.lock.strategy.localized.evernote_sandbox" = "EVERNOTE (SANDBOX)";
+
+/* Exact */
+"com.auth0.lock.strategy.localized.exact" = "सटीक";
+
+/* Facebook */
+"com.auth0.lock.strategy.localized.facebook" = "Facebook";
+
+/* Fitbit */
+"com.auth0.lock.strategy.localized.fitbit" = "Fitbit";
+
+/* Github */
+"com.auth0.lock.strategy.localized.github" = "Github";
+
+/* Google */
+"com.auth0.lock.strategy.localized.google" = "गूगल";
+
+/* Instagram */
+"com.auth0.lock.strategy.localized.instagram" = "Instagram";
+
+/* Linkedin */
+"com.auth0.lock.strategy.localized.linkedin" = "Linkedin";
+
+/* Microsoft */
+"com.auth0.lock.strategy.localized.microsoft" = "MICROSOFT खाता";
+
+/* Miicard */
+"com.auth0.lock.strategy.localized.miicard" = "MIICARD";
+
+/* Paypal */
+"com.auth0.lock.strategy.localized.paypal" = "पेपैल";
+
+/* PaypalSandbox */
+"com.auth0.lock.strategy.localized.paypal_sandbox" = "पेपैल (SANDBOX)";
+
+/* PlanningCenter */
+"com.auth0.lock.strategy.localized.planning_center" = "योजना केंद्र";
+
+/* RenRen */
+"com.auth0.lock.strategy.localized.renren" = "人人";
+
+/* Salesforce */
+"com.auth0.lock.strategy.localized.salesforce" = "Salesforce";
+
+/* SalesforceCommunity */
+"com.auth0.lock.strategy.localized.salesforce_community" = "SALESFORCE समुदाय";
+
+/* SalesforceSandbox */
+"com.auth0.lock.strategy.localized.salesforce_sandbox" = "SALESFORCE (SANDBOX)";
+
+/* Shopify */
+"com.auth0.lock.strategy.localized.shopify" = "SHOPIFY";
+
+/* Soundcloud */
+"com.auth0.lock.strategy.localized.soundcloud" = "Soundcloud";
+
+/* TheCity */
+"com.auth0.lock.strategy.localized.the_city" = "लेकर शहर";
+
+/* TheCitySandbox */
+"com.auth0.lock.strategy.localized.the_city_sandbox" = "शहर (SANDBOX)";
+
+/* ThirtySevenSignals */
+"com.auth0.lock.strategy.localized.thirty_seven_signals" = "३७ संकेत";
+
+/* Twitter */
+"com.auth0.lock.strategy.localized.twitter" = "चहचहाना";
+
+/* Vkontakte */
+"com.auth0.lock.strategy.localized.vkontakte" = "VKONTAKTE";
+
+/* Weibo */
+"com.auth0.lock.strategy.localized.weibo" = "新浪微博";
+
+/* Wordpress */
+"com.auth0.lock.strategy.localized.wordpress" = "Wordpress";
+
+/* Yahoo */
+"com.auth0.lock.strategy.localized.yahoo" = "याहू!";
+
+/* Yammer */
+"com.auth0.lock.strategy.localized.yammer" = "Yammer";
+
+/* Yandex */
+"com.auth0.lock.strategy.localized.yandex" = "Yandex";
+
+/* Log in with %@{strategy} */
+"com.auth0.lock.strategy.login.title" = "लॉग इन करें %1$@";
+
+/* Sign up with %@{strategy} */
+"com.auth0.lock.strategy.signup.title" = "साथ साइन अप %1$@";
+
+/* Login Button title */
+"com.auth0.lock.submit.login.title" = "लॉग इन करो";
+
+/* Send 2fa code */
+"com.auth0.lock.submit.send_code.title" = "भेजें";
+
+/* Send Email button title */
+"com.auth0.lock.submit.send_email.title" = "ईमेल भेजें";
+
+/* Signup Button title */
+"com.auth0.lock.submit.signup.title" = "नाम लिखो";
+
+/* Passwordless code reminder action */
+"com.auth0.passwordless.code.reminder" = "कोड नहीं मिला?";
+
+/* Passwordless code sent by email to %@{identifier} */
+"com.auth0.passwordless.email.code.sent" = "कोड के साथ एक ईमेल करने के लिए भेजा गया है %1$@";
+
+/* Passwordless email title */
+"com.auth0.passwordless.email.title" = "साइन इन करने या खाता बनाने के लिए अपना ईमेल दर्ज करें ।";
+
+/* Passwordless email title with social */
+"com.auth0.passwordless.email.title.social" = "अंयथा, साइन इन करने या खाता बनाने के लिए अपना ईमेल दर्ज करें ।";
+
+/* Passwordless link reminder action */
+"com.auth0.passwordless.link.reminder" = "लिंक प्राप्त नहीं हुआ?";
+
+/* Passwordless link sent to %@{identifier} */
+"com.auth0.passwordless.link.sent" = "हमने आपको साइन इन करने के लिए लिंक भेजा है %1$@";
+
+/* Passwordless code sent by sms to %@{identifier} */
+"com.auth0.passwordless.sms.code.sent" = "कोड के साथ एक एसएमएस भेजा गया है %1$@";
+
+/* CountryCodes TableViewCell detail %@{phoneCode} */
+"com.auth0.passwordless.sms.country.cell.detail" = "%1$@";
+
+/* CountryCodes TableViewCell label %@{localizedName} */
+"com.auth0.passwordless.sms.country.cell.label" = "%1$@";
+
+/* Passwordless sms title */
+"com.auth0.passwordless.sms.title" = "साइन इन करने या खाता बनाने के लिए अपना फ़ोन दर्ज करें ।";
+
+/* Passwordless sms title with social */
+"com.auth0.passwordless.sms.title.social" = "अंयथा, साइन इन करने या खाता बनाने के लिए अपना फ़ोन दर्ज करें ।";

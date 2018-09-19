@@ -1,0 +1,380 @@
+/* Forgot password */
+"com.auth0.lock.database.button.forgot_password" = "不记得你的密码？";
+
+/* tos & privacy */
+"com.auth0.lock.database.button.tos" = "通过注册, 您同意我们的服务条款和隐私政策";
+
+/* forgot password email sent */
+"com.auth0.lock.database.forgot.success.message" = "我们刚刚给您发了一封电子邮件重置您的密码";
+
+/* User logged in */
+"com.auth0.lock.database.login.success.message" = "您已成功登录。";
+
+/* Login Switch */
+"com.auth0.lock.database.mode.switcher.login" = "登录";
+
+/* Signup Switch */
+"com.auth0.lock.database.mode.switcher.signup" = "登记";
+
+/* Social separator */
+"com.auth0.lock.database.separator" = "或";
+
+/* User signed up */
+"com.auth0.lock.database.signup.success.message" = "谢谢你报名了。";
+
+/* Cancel */
+"com.auth0.lock.database.tos.sheet.cancel" = "取消";
+
+/* Privacy */
+"com.auth0.lock.database.tos.sheet.privacy" = "隐私权政策";
+
+/* ToS */
+"com.auth0.lock.database.tos.sheet.title" = "服务条款";
+
+/* enter corporate credentials */
+"com.auth0.lock.enterprise.sso.message" = "请输入您的企业资质";
+
+/* enter corporate credentials of domain %@{email domain} */
+"com.auth0.lock.enterprise.sso.message_at" = "请输入您的公司资质 %1$@";
+
+/* SSO Header */
+"com.auth0.lock.enterprise.sso.title" = "启用单一登录";
+
+/* user is blocked */
+"com.auth0.lock.error.authentication.blocked_user" = "用户被阻止。";
+
+/* Generic login error */
+"com.auth0.lock.error.authentication.fallback" = "对不起, 尝试登录时出错。";
+
+/* invalid_user_password */
+"com.auth0.lock.error.authentication.invalid_user_password" = "错误的电子邮件或密码。";
+
+/* a0.mfa_invalid_code */
+"com.auth0.lock.error.authentication.mfa_invalid_code" = "错误的代码。";
+
+/* No valid connection */
+"com.auth0.lock.error.authentication.no_connection" = "对不起, 我们找不到此用户的有效连接。";
+
+/* password_change_required */
+"com.auth0.lock.error.authentication.password_change_required" = "您需要更新密码, 因为这是您第一次登录, 或者密码已过期。";
+
+/* password_leaked */
+"com.auth0.lock.error.authentication.password_leaked" = "此登录已被阻止, 因为您的密码已在其他网站中泄露。我们已经给你发了一封电子邮件, 上面有关于如何解除阻止的指示。";
+
+/* too_many_attempts */
+"com.auth0.lock.error.authentication.too_many_attempts" = "您的帐户在多次连续登录尝试后被阻止。";
+
+/* Generic error */
+"com.auth0.lock.error.fallback" = "出错了 \n 请联系技术支持。";
+
+/* Generic password error */
+"com.auth0.lock.error.forgot.fallback" = "对不起, 请求密码更改时出错。";
+
+/* At least N characters */
+"com.auth0.lock.error.password.at_least_length" = "至少 %d 字符长度";
+
+/* At least n groups */
+"com.auth0.lock.error.password.contain_at_least" = "至少包含 %d 的下列 %d 字符类型:";
+
+/* Lowercase letters */
+"com.auth0.lock.error.password.lowercase_letters" = "小写字母 (a-z)";
+
+/* Must no be empty */
+"com.auth0.lock.error.password.non_empty" = "需要非空密码";
+
+/* No more than %@{count} identical characters in a row (e.g., \"%@{identical sample}\" not allowed) */
+"com.auth0.lock.error.password.no_more_identical" = "不超过 %1$d 一行中的相同字符 (例如, '%2$@' 不允许)";
+
+/* Numbers */
+"com.auth0.lock.error.password.numbers" = "数字 (即 0-9)";
+
+/* N groups */
+"com.auth0.lock.error.password.should_contain" = "应包含:";
+
+/* Special Characters */
+"com.auth0.lock.error.password.special_characters" = "特殊字符 (如: @ $% ^ 和 *)";
+
+/* Uppercase letters */
+"com.auth0.lock.error.password.uppercase_letters" = "大写字母 (a-z)";
+
+/* Passwordless link invalid. */
+"com.auth0.lock.error.passwordless.invalid_link" = "对不起, 你的链接有问题。请申请一个新的。";
+
+/* Passwordless sign ups disabled. */
+"com.auth0.lock.error.passwordless.signup_disabled" = "此帐户禁用了新的标志 UPS, 请与管理员联系。";
+
+/* Recoverable error button */
+"com.auth0.lock.error.recoverable.button" = "重试";
+
+/* Recoverable error message */
+"com.auth0.lock.error.recoverable.message" = "请检查您的互联网连接。";
+
+/* Recoverable error title */
+"com.auth0.lock.error.recoverable.title" = "无法加载登录框";
+
+/* Generic sign up error */
+"com.auth0.lock.error.signup.fallback" = "很抱歉在尝试注册时出错了";
+
+/* invalid_password */
+"com.auth0.lock.error.signup.invalid_password" = "密码无效。";
+
+/* password_dictionary_error */
+"com.auth0.lock.error.signup.password_dictionary_error" = "密码太常见。";
+
+/* password_history */
+"com.auth0.lock.error.signup.password_history" = "以前使用过密码。";
+
+/* password_no_user_info_error */
+"com.auth0.lock.error.signup.password_no_user_info_error" = "密码基于用户信息。";
+
+/* password_strength_error */
+"com.auth0.lock.error.signup.password_strength_error" = "密码太弱。";
+
+/* user_exists */
+"com.auth0.lock.error.signup.user_exists" = "用户已存在。";
+
+/* Unrecoverable error button */
+"com.auth0.lock.error.unrecoverable.button" = "联系支持";
+
+/* Default error */
+"com.auth0.lock.error.unrecoverable.default" = "出错了 \n 请联系技术支持。";
+
+/* Invalid client or domain */
+"com.auth0.lock.error.unrecoverable.invalid_credentials" = "您的 Auth0 凭据 ClientId 和/或域无效。";
+
+/* Your options configuration failed with: %@{error} */
+"com.auth0.lock.error.unrecoverable.invalid_options" = "您的选项配置失败: %1$@";
+
+/* Unrecoverable error message */
+"com.auth0.lock.error.unrecoverable.message" = "解析登录框配置时出现意外错误。";
+
+/* Unrecoverable error message */
+"com.auth0.lock.error.unrecoverable.message.no_action" = "解析登录框配置时出现意外错误, 请与支持人员联系。";
+
+/* No connections */
+"com.auth0.lock.error.unrecoverable.no_connections" = "找不到此客户端的身份验证方法。请检查您的客户端设置。";
+
+/* Unrecoverable error title */
+"com.auth0.lock.error.unrecoverable.title" = "无法解析您的请求";
+
+/* Forgot Password message */
+"com.auth0.lock.forgot.message" = "请输入您的电子邮件和新密码。我们将向您发送电子邮件以确认密码更改。";
+
+/* Forgot Password title */
+"com.auth0.lock.forgot.title" = "重置密码";
+
+/* Header Title */
+"com.auth0.lock.header.default_title" = "Auth0";
+
+/* invalid email */
+"com.auth0.lock.input.email.error" = "必须是有效的电子邮件地址";
+
+/* Email placeholder */
+"com.auth0.lock.input.email.placeholder" = "电子邮件";
+
+/* Username or Email placeholder */
+"com.auth0.lock.input.email_username.placeholder" = "用户名/电子邮件";
+
+/* empty input */
+"com.auth0.lock.input.empty.error" = "不能为空";
+
+/* generic input error */
+"com.auth0.lock.input.generic.error" = "无效输入";
+
+/* invalid otp */
+"com.auth0.lock.input.otp.error" = "必须是有效的数字代码";
+
+/* OTP placeholder */
+"com.auth0.lock.input.otp.placeholder" = "代码";
+
+/* Password placeholder */
+"com.auth0.lock.input.password.placeholder" = "密码";
+
+/* invalid phone */
+"com.auth0.lock.input.phone.error" = "必须是有效的电话号码";
+
+/* Phone placeholder */
+"com.auth0.lock.input.phone.placeholder" = "电话号码";
+
+/* policy violation */
+"com.auth0.lock.input.policy.error" = "密码不满足策略";
+
+/* invalid username */
+"com.auth0.lock.input.username.error" = "只能包含在 %d 自 %d 字母数字字符和 '_'。";
+
+/* Username placeholder */
+"com.auth0.lock.input.username.placeholder" = "用户";
+
+/* Multifactor message */
+"com.auth0.lock.multifactor.message" = "请输入您的移动应用程序生成的验证代码。";
+
+/* Multifactor title */
+"com.auth0.lock.multifactor.title" = "两步验证";
+
+/* Country tableview navigation header */
+"com.auth0.lock.passwordless.sms.country.header" = "选择您的国家";
+
+/* CountryCodes TableView searchbar placeholder */
+"com.auth0.lock.passwordless.sms.country.search" = "搜索";
+
+/* Amazon */
+"com.auth0.lock.strategy.localized.amazon" = "亚马逊";
+
+/* Aol */
+"com.auth0.lock.strategy.localized.aol" = "Aol";
+
+/* Baidu */
+"com.auth0.lock.strategy.localized.baidu" = "百度";
+
+/* Bitbucket */
+"com.auth0.lock.strategy.localized.bitbucket" = "BITBUCKET";
+
+/* Dropbox */
+"com.auth0.lock.strategy.localized.dropbox" = "Dropbox";
+
+/* Dwolla */
+"com.auth0.lock.strategy.localized.dwolla" = "DWOLLA";
+
+/* Ebay */
+"com.auth0.lock.strategy.localized.ebay" = "易趣";
+
+/* Evernote */
+"com.auth0.lock.strategy.localized.evernote" = "EVERNOTE";
+
+/* EvernoteSandbox */
+"com.auth0.lock.strategy.localized.evernote_sandbox" = "笔记 (沙盒)";
+
+/* Exact */
+"com.auth0.lock.strategy.localized.exact" = "确切";
+
+/* Facebook */
+"com.auth0.lock.strategy.localized.facebook" = "Facebook";
+
+/* Fitbit */
+"com.auth0.lock.strategy.localized.fitbit" = "FITBIT";
+
+/* Github */
+"com.auth0.lock.strategy.localized.github" = "Github";
+
+/* Google */
+"com.auth0.lock.strategy.localized.google" = "谷歌";
+
+/* Instagram */
+"com.auth0.lock.strategy.localized.instagram" = "INSTAGRAM";
+
+/* Linkedin */
+"com.auth0.lock.strategy.localized.linkedin" = "领英";
+
+/* Microsoft */
+"com.auth0.lock.strategy.localized.microsoft" = "微软帐户";
+
+/* Miicard */
+"com.auth0.lock.strategy.localized.miicard" = "MIICARD";
+
+/* Paypal */
+"com.auth0.lock.strategy.localized.paypal" = "贝宝";
+
+/* PaypalSandbox */
+"com.auth0.lock.strategy.localized.paypal_sandbox" = "贝宝 (沙箱)";
+
+/* PlanningCenter */
+"com.auth0.lock.strategy.localized.planning_center" = "规划中心";
+
+/* RenRen */
+"com.auth0.lock.strategy.localized.renren" = "人人";
+
+/* Salesforce */
+"com.auth0.lock.strategy.localized.salesforce" = "SALESFORCE";
+
+/* SalesforceCommunity */
+"com.auth0.lock.strategy.localized.salesforce_community" = "SALESFORCE 社区";
+
+/* SalesforceSandbox */
+"com.auth0.lock.strategy.localized.salesforce_sandbox" = "SALESFORCE (沙箱)";
+
+/* Shopify */
+"com.auth0.lock.strategy.localized.shopify" = "SHOPIFY";
+
+/* Soundcloud */
+"com.auth0.lock.strategy.localized.soundcloud" = "SOUNDCLOUD";
+
+/* TheCity */
+"com.auth0.lock.strategy.localized.the_city" = "这个城市";
+
+/* TheCitySandbox */
+"com.auth0.lock.strategy.localized.the_city_sandbox" = "城市 (沙箱)";
+
+/* ThirtySevenSignals */
+"com.auth0.lock.strategy.localized.thirty_seven_signals" = "37 Signals";
+
+/* Twitter */
+"com.auth0.lock.strategy.localized.twitter" = "Twitter";
+
+/* Vkontakte */
+"com.auth0.lock.strategy.localized.vkontakte" = "VKONTAKTE";
+
+/* Weibo */
+"com.auth0.lock.strategy.localized.weibo" = "新浪微博";
+
+/* Wordpress */
+"com.auth0.lock.strategy.localized.wordpress" = "Wordpress";
+
+/* Yahoo */
+"com.auth0.lock.strategy.localized.yahoo" = "雅虎！";
+
+/* Yammer */
+"com.auth0.lock.strategy.localized.yammer" = "YAMMER";
+
+/* Yandex */
+"com.auth0.lock.strategy.localized.yandex" = "YANDEX";
+
+/* Log in with %@{strategy} */
+"com.auth0.lock.strategy.login.title" = "登录时使用 %1$@";
+
+/* Sign up with %@{strategy} */
+"com.auth0.lock.strategy.signup.title" = "注册与 %1$@";
+
+/* Login Button title */
+"com.auth0.lock.submit.login.title" = "登录";
+
+/* Send 2fa code */
+"com.auth0.lock.submit.send_code.title" = "发送";
+
+/* Send Email button title */
+"com.auth0.lock.submit.send_email.title" = "发送电子邮件";
+
+/* Signup Button title */
+"com.auth0.lock.submit.signup.title" = "登记";
+
+/* Passwordless code reminder action */
+"com.auth0.passwordless.code.reminder" = "没有得到代码？";
+
+/* Passwordless code sent by email to %@{identifier} */
+"com.auth0.passwordless.email.code.sent" = "已将代码的电子邮件发送到 %1$@";
+
+/* Passwordless email title */
+"com.auth0.passwordless.email.title" = "输入您的电子邮件登录或创建帐户。";
+
+/* Passwordless email title with social */
+"com.auth0.passwordless.email.title.social" = "否则, 请输入您的电子邮件登录或创建帐户。";
+
+/* Passwordless link reminder action */
+"com.auth0.passwordless.link.reminder" = "没有收到链接？";
+
+/* Passwordless link sent to %@{identifier} */
+"com.auth0.passwordless.link.sent" = "我们给您发送了一个链接登录到 %1$@";
+
+/* Passwordless code sent by sms to %@{identifier} */
+"com.auth0.passwordless.sms.code.sent" = "已将代码的短信发送到 %1$@";
+
+/* CountryCodes TableViewCell detail %@{phoneCode} */
+"com.auth0.passwordless.sms.country.cell.detail" = "%1$@";
+
+/* CountryCodes TableViewCell label %@{localizedName} */
+"com.auth0.passwordless.sms.country.cell.label" = "%1$@";
+
+/* Passwordless sms title */
+"com.auth0.passwordless.sms.title" = "输入您的手机登录或创建帐户。";
+
+/* Passwordless sms title with social */
+"com.auth0.passwordless.sms.title.social" = "否则, 请输入您的电话以登录或创建帐户。";

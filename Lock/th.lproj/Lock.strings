@@ -1,0 +1,380 @@
+/* Forgot password */
+"com.auth0.lock.database.button.forgot_password" = "จำรหัสผ่านของคุณไม่ได้?";
+
+/* tos & privacy */
+"com.auth0.lock.database.button.tos" = "โดยการลงทะเบียน, คุณยอมรับข้อตกลงในการให้บริการ of\n และนโยบายความเป็นส่วนตัว";
+
+/* forgot password email sent */
+"com.auth0.lock.database.forgot.success.message" = "เราเพียงแค่ส่งอีเมลถึงคุณเพื่อรีเซ็ตรหัสผ่านของคุณ";
+
+/* User logged in */
+"com.auth0.lock.database.login.success.message" = "คุณเข้าสู่ระบบเสร็จเรียบร้อยแล้ว";
+
+/* Login Switch */
+"com.auth0.lock.database.mode.switcher.login" = "เข้าสู่ระบบ";
+
+/* Signup Switch */
+"com.auth0.lock.database.mode.switcher.signup" = "ไซน์อัพ";
+
+/* Social separator */
+"com.auth0.lock.database.separator" = "หรือ";
+
+/* User signed up */
+"com.auth0.lock.database.signup.success.message" = "ขอบคุณสำหรับการลงทะเบียน.";
+
+/* Cancel */
+"com.auth0.lock.database.tos.sheet.cancel" = "ยกเลิก";
+
+/* Privacy */
+"com.auth0.lock.database.tos.sheet.privacy" = "นโยบายความเป็นส่วนตัว";
+
+/* ToS */
+"com.auth0.lock.database.tos.sheet.title" = "เงื่อนไขการให้บริการ";
+
+/* enter corporate credentials */
+"com.auth0.lock.enterprise.sso.message" = "กรุณาใส่ข้อมูลประจำตัวขององค์กร";
+
+/* enter corporate credentials of domain %@{email domain} */
+"com.auth0.lock.enterprise.sso.message_at" = "กรุณาใส่ข้อมูลประจำตัวขององค์กรของคุณที่ %1$@";
+
+/* SSO Header */
+"com.auth0.lock.enterprise.sso.title" = "การเข้าสู่ระบบแบบครั้งเดียวเปิดใช้งาน";
+
+/* user is blocked */
+"com.auth0.lock.error.authentication.blocked_user" = "ผู้ใช้ถูกบล็อค";
+
+/* Generic login error */
+"com.auth0.lock.error.authentication.fallback" = "ขออภัยบางสิ่งบางอย่างที่ผิดเมื่อพยายามเข้าสู่ระบบ";
+
+/* invalid_user_password */
+"com.auth0.lock.error.authentication.invalid_user_password" = "อีเมลหรือรหัสผ่านไม่ถูกต้อง";
+
+/* a0.mfa_invalid_code */
+"com.auth0.lock.error.authentication.mfa_invalid_code" = "รหัสที่ไม่ถูกต้อง";
+
+/* No valid connection */
+"com.auth0.lock.error.authentication.no_connection" = "ขออภัยเราไม่พบการเชื่อมต่อที่ถูกต้องสำหรับผู้ใช้นี้";
+
+/* password_change_required */
+"com.auth0.lock.error.authentication.password_change_required" = "คุณจำเป็นต้องปรับปรุงรหัสผ่านของคุณเนื่องจากเป็นครั้งแรกที่คุณเข้าสู่ระบบหรือเนื่องจากรหัสผ่านของคุณหมดอายุแล้ว";
+
+/* password_leaked */
+"com.auth0.lock.error.authentication.password_leaked" = "การเข้าสู่ระบบนี้ถูกบล็อกเนื่องจากรหัสผ่านของคุณถูกรั่วไหลในเว็บไซต์อื่น เราได้ส่งอีเมลให้คุณด้วยคำแนะนำเกี่ยวกับวิธีการยกเลิกการบล็อก";
+
+/* too_many_attempts */
+"com.auth0.lock.error.authentication.too_many_attempts" = "บัญชีของคุณถูกบล็อกหลังจากความพยายามเข้าสู่ระบบที่ติดต่อกันหลายครั้ง";
+
+/* Generic error */
+"com.auth0.lock.error.fallback" = "สิ่งที่ผิดพลาด \ nPLEASE ติดต่อฝ่ายสนับสนุนด้านเทคนิค";
+
+/* Generic password error */
+"com.auth0.lock.error.forgot.fallback" = "ขออภัยบางสิ่งบางอย่างผิดเมื่อขอเปลี่ยนรหัสผ่าน";
+
+/* At least N characters */
+"com.auth0.lock.error.password.at_least_length" = "น้อย %d อักขระที่มีความยาว";
+
+/* At least n groups */
+"com.auth0.lock.error.password.contain_at_least" = "มีอย่างน้อย %d ต่อไปนี้ %d ชนิดของอักขระ:";
+
+/* Lowercase letters */
+"com.auth0.lock.error.password.lowercase_letters" = "ตัวอักษรเล็ก (a-z)";
+
+/* Must no be empty */
+"com.auth0.lock.error.password.non_empty" = "ต้องใช้รหัสผ่านที่ไม่ว่างเปล่า";
+
+/* No more than %@{count} identical characters in a row (e.g., \"%@{identical sample}\" not allowed) */
+"com.auth0.lock.error.password.no_more_identical" = "ไม่เกิน %1$d ตัวอักษรที่เหมือนกันในแถว (เช่น, '%2$@' ไม่อนุญาตให้ใช้)";
+
+/* Numbers */
+"com.auth0.lock.error.password.numbers" = "ตัวเลข (เช่น 0-9)";
+
+/* N groups */
+"com.auth0.lock.error.password.should_contain" = "ควรประกอบด้วย:";
+
+/* Special Characters */
+"com.auth0.lock.error.password.special_characters" = "ตัวอักษรพิเศษ (เช่น! @ # $";
+
+/* Uppercase letters */
+"com.auth0.lock.error.password.uppercase_letters" = "ตัวอักษรพิมพ์ใหญ่ (a-z)";
+
+/* Passwordless link invalid. */
+"com.auth0.lock.error.passwordless.invalid_link" = "ขออภัยมีปัญหากับการเชื่อมโยงของคุณ กรุณาขอใบใหม่";
+
+/* Passwordless sign ups disabled. */
+"com.auth0.lock.error.passwordless.signup_disabled" = "เครื่องหมายใหม่ถูกปิดใช้งานสำหรับบัญชีนี้โปรดติดต่อผู้ดูแลระบบของคุณ";
+
+/* Recoverable error button */
+"com.auth0.lock.error.recoverable.button" = "ลอง";
+
+/* Recoverable error message */
+"com.auth0.lock.error.recoverable.message" = "กรุณาตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ";
+
+/* Recoverable error title */
+"com.auth0.lock.error.recoverable.title" = "ไม่สามารถโหลดกล่องเข้าสู่ระบบ";
+
+/* Generic sign up error */
+"com.auth0.lock.error.signup.fallback" = "ขออภัยบางสิ่งบางอย่างที่ผิดเมื่อพยายามลงทะเบียน";
+
+/* invalid_password */
+"com.auth0.lock.error.signup.invalid_password" = "รหัสผ่านไม่ถูกต้อง";
+
+/* password_dictionary_error */
+"com.auth0.lock.error.signup.password_dictionary_error" = "รหัสผ่านที่พบบ่อยเกินไป";
+
+/* password_history */
+"com.auth0.lock.error.signup.password_history" = "มีการใช้รหัสผ่านก่อนหน้านี้";
+
+/* password_no_user_info_error */
+"com.auth0.lock.error.signup.password_no_user_info_error" = "รหัสผ่านจะขึ้นอยู่กับข้อมูลผู้ใช้";
+
+/* password_strength_error */
+"com.auth0.lock.error.signup.password_strength_error" = "รหัสผ่านที่อ่อนแอเกินไป";
+
+/* user_exists */
+"com.auth0.lock.error.signup.user_exists" = "มีผู้ใช้อยู่แล้ว";
+
+/* Unrecoverable error button */
+"com.auth0.lock.error.unrecoverable.button" = "ติดต่อฝ่ายสนับสนุน";
+
+/* Default error */
+"com.auth0.lock.error.unrecoverable.default" = "สิ่งที่ผิดพลาด \ nPLEASE ติดต่อฝ่ายสนับสนุนด้านเทคนิค";
+
+/* Invalid client or domain */
+"com.auth0.lock.error.unrecoverable.invalid_credentials" = "ข้อมูลประจำตัว Auth0 ของคุณ ClientId และ/หรือโดเมนไม่ถูกต้อง";
+
+/* Your options configuration failed with: %@{error} */
+"com.auth0.lock.error.unrecoverable.invalid_options" = "การกำหนดค่าตัวเลือกของคุณล้มเหลวด้วย: %1$@";
+
+/* Unrecoverable error message */
+"com.auth0.lock.error.unrecoverable.message" = "มีข้อผิดพลาดที่ไม่คาดคิดขณะที่การแก้ไขการกำหนดค่ากล่องเข้าสู่ระบบ";
+
+/* Unrecoverable error message */
+"com.auth0.lock.error.unrecoverable.message.no_action" = "มีข้อผิดพลาดที่ไม่คาดคิดขณะที่การแก้ไขการกำหนดค่ากล่องเข้าสู่ระบบโปรดติดต่อฝ่ายสนับสนุน";
+
+/* No connections */
+"com.auth0.lock.error.unrecoverable.no_connections" = "ไม่พบวิธีการรับรองความถูกต้องสำหรับไคลเอ็นต์นี้ กรุณาตรวจสอบการตั้งค่าไคลเอ็นต์ของคุณ";
+
+/* Unrecoverable error title */
+"com.auth0.lock.error.unrecoverable.title" = "ไม่สามารถแก้ไขคำขอของคุณ";
+
+/* Forgot Password message */
+"com.auth0.lock.forgot.message" = "กรุณาใส่อีเมลของคุณและรหัสผ่านใหม่ เราจะส่งอีเมลให้คุณเพื่อยืนยันการเปลี่ยนแปลงรหัสผ่าน";
+
+/* Forgot Password title */
+"com.auth0.lock.forgot.title" = "รีเซ็ตรหัสผ่าน";
+
+/* Header Title */
+"com.auth0.lock.header.default_title" = "Auth0";
+
+/* invalid email */
+"com.auth0.lock.input.email.error" = "ต้องเป็นที่อยู่อีเมลที่ถูกต้อง";
+
+/* Email placeholder */
+"com.auth0.lock.input.email.placeholder" = "อีเมล";
+
+/* Username or Email placeholder */
+"com.auth0.lock.input.email_username.placeholder" = "ชื่อผู้ใช้/อีเมล";
+
+/* empty input */
+"com.auth0.lock.input.empty.error" = "ต้องไม่ว่าง";
+
+/* generic input error */
+"com.auth0.lock.input.generic.error" = "การป้อนข้อมูลไม่ถูกต้อง";
+
+/* invalid otp */
+"com.auth0.lock.input.otp.error" = "ต้องเป็นรหัสตัวเลขที่ถูกต้อง";
+
+/* OTP placeholder */
+"com.auth0.lock.input.otp.placeholder" = "รหัส";
+
+/* Password placeholder */
+"com.auth0.lock.input.password.placeholder" = "รหัส ผ่าน";
+
+/* invalid phone */
+"com.auth0.lock.input.phone.error" = "ต้องเป็นหมายเลขโทรศัพท์ที่ถูกต้อง";
+
+/* Phone placeholder */
+"com.auth0.lock.input.phone.placeholder" = "หมายเลขโทรศัพท์";
+
+/* policy violation */
+"com.auth0.lock.input.policy.error" = "รหัสผ่านไม่ปฏิบัติตามนโยบาย";
+
+/* invalid username */
+"com.auth0.lock.input.username.error" = "สามารถมีได้ระหว่าง %d ถึง %d อักขระตัวเลขและ '_'";
+
+/* Username placeholder */
+"com.auth0.lock.input.username.placeholder" = "ชื่อ";
+
+/* Multifactor message */
+"com.auth0.lock.multifactor.message" = "โปรดป้อนรหัสยืนยันที่สร้างโดยแอพพลิเคชั่นโทรศัพท์มือถือของคุณ";
+
+/* Multifactor title */
+"com.auth0.lock.multifactor.title" = "การตรวจสอบสองขั้นตอน";
+
+/* Country tableview navigation header */
+"com.auth0.lock.passwordless.sms.country.header" = "เลือกประเทศ";
+
+/* CountryCodes TableView searchbar placeholder */
+"com.auth0.lock.passwordless.sms.country.search" = "ค้นหา";
+
+/* Amazon */
+"com.auth0.lock.strategy.localized.amazon" = "Amazon";
+
+/* Aol */
+"com.auth0.lock.strategy.localized.aol" = "Aol";
+
+/* Baidu */
+"com.auth0.lock.strategy.localized.baidu" = "百度";
+
+/* Bitbucket */
+"com.auth0.lock.strategy.localized.bitbucket" = "BITBUCKET";
+
+/* Dropbox */
+"com.auth0.lock.strategy.localized.dropbox" = "Dropbox";
+
+/* Dwolla */
+"com.auth0.lock.strategy.localized.dwolla" = "DWOLLA";
+
+/* Ebay */
+"com.auth0.lock.strategy.localized.ebay" = "เบย์";
+
+/* Evernote */
+"com.auth0.lock.strategy.localized.evernote" = "Evernote";
+
+/* EvernoteSandbox */
+"com.auth0.lock.strategy.localized.evernote_sandbox" = "EVERNOTE (SANDBOX)";
+
+/* Exact */
+"com.auth0.lock.strategy.localized.exact" = "แน่ นอน";
+
+/* Facebook */
+"com.auth0.lock.strategy.localized.facebook" = "Facebook";
+
+/* Fitbit */
+"com.auth0.lock.strategy.localized.fitbit" = "FITBIT";
+
+/* Github */
+"com.auth0.lock.strategy.localized.github" = "GITHUB";
+
+/* Google */
+"com.auth0.lock.strategy.localized.google" = "Google";
+
+/* Instagram */
+"com.auth0.lock.strategy.localized.instagram" = "Instagram";
+
+/* Linkedin */
+"com.auth0.lock.strategy.localized.linkedin" = "Linkedin";
+
+/* Microsoft */
+"com.auth0.lock.strategy.localized.microsoft" = "บัญชี MICROSOFT";
+
+/* Miicard */
+"com.auth0.lock.strategy.localized.miicard" = "MIICARD";
+
+/* Paypal */
+"com.auth0.lock.strategy.localized.paypal" = "Paypal";
+
+/* PaypalSandbox */
+"com.auth0.lock.strategy.localized.paypal_sandbox" = "PAYPAL (SANDBOX)";
+
+/* PlanningCenter */
+"com.auth0.lock.strategy.localized.planning_center" = "ศูนย์วางแผน";
+
+/* RenRen */
+"com.auth0.lock.strategy.localized.renren" = "人人";
+
+/* Salesforce */
+"com.auth0.lock.strategy.localized.salesforce" = "SALESFORCE";
+
+/* SalesforceCommunity */
+"com.auth0.lock.strategy.localized.salesforce_community" = "ชุมชนของ SALESFORCE";
+
+/* SalesforceSandbox */
+"com.auth0.lock.strategy.localized.salesforce_sandbox" = "SALESFORCE (SANDBOX)";
+
+/* Shopify */
+"com.auth0.lock.strategy.localized.shopify" = "SHOPIFY";
+
+/* Soundcloud */
+"com.auth0.lock.strategy.localized.soundcloud" = "SOUNDCLOUD";
+
+/* TheCity */
+"com.auth0.lock.strategy.localized.the_city" = "ในเมือง";
+
+/* TheCitySandbox */
+"com.auth0.lock.strategy.localized.the_city_sandbox" = "เมือง (SANDBOX)";
+
+/* ThirtySevenSignals */
+"com.auth0.lock.strategy.localized.thirty_seven_signals" = "๓๗สัญญาณ";
+
+/* Twitter */
+"com.auth0.lock.strategy.localized.twitter" = "ทวิตเตอร์";
+
+/* Vkontakte */
+"com.auth0.lock.strategy.localized.vkontakte" = "Vkontakte";
+
+/* Weibo */
+"com.auth0.lock.strategy.localized.weibo" = "微";
+
+/* Wordpress */
+"com.auth0.lock.strategy.localized.wordpress" = "เวิร์ด เพ รส";
+
+/* Yahoo */
+"com.auth0.lock.strategy.localized.yahoo" = "Yahoo!";
+
+/* Yammer */
+"com.auth0.lock.strategy.localized.yammer" = "Yammer";
+
+/* Yandex */
+"com.auth0.lock.strategy.localized.yandex" = "Yandex";
+
+/* Log in with %@{strategy} */
+"com.auth0.lock.strategy.login.title" = "เข้าสู่ระบบด้วย %1$@";
+
+/* Sign up with %@{strategy} */
+"com.auth0.lock.strategy.signup.title" = "ลงทะเบียนด้วย %1$@";
+
+/* Login Button title */
+"com.auth0.lock.submit.login.title" = "เข้าสู่ระบบ";
+
+/* Send 2fa code */
+"com.auth0.lock.submit.send_code.title" = "ส่ง";
+
+/* Send Email button title */
+"com.auth0.lock.submit.send_email.title" = "ส่งอีเมล์";
+
+/* Signup Button title */
+"com.auth0.lock.submit.signup.title" = "ไซน์อัพ";
+
+/* Passwordless code reminder action */
+"com.auth0.passwordless.code.reminder" = "ไม่ได้รับรหัส?";
+
+/* Passwordless code sent by email to %@{identifier} */
+"com.auth0.passwordless.email.code.sent" = "ส่งอีเมลที่มีรหัสไปให้ %1$@";
+
+/* Passwordless email title */
+"com.auth0.passwordless.email.title" = "ป้อนอีเมลของคุณเพื่อลงชื่อเข้าใช้หรือสร้างบัญชี";
+
+/* Passwordless email title with social */
+"com.auth0.passwordless.email.title.social" = "มิฉะนั้นให้ป้อนอีเมลของคุณเพื่อลงชื่อเข้าใช้หรือสร้างบัญชี";
+
+/* Passwordless link reminder action */
+"com.auth0.passwordless.link.reminder" = "ไม่ได้รับการเชื่อมโยง?";
+
+/* Passwordless link sent to %@{identifier} */
+"com.auth0.passwordless.link.sent" = "เราส่งลิงก์ให้คุณลงชื่อเข้าใช้ %1$@";
+
+/* Passwordless code sent by sms to %@{identifier} */
+"com.auth0.passwordless.sms.code.sent" = "ส่ง sms ที่มีรหัสไปยัง %1$@";
+
+/* CountryCodes TableViewCell detail %@{phoneCode} */
+"com.auth0.passwordless.sms.country.cell.detail" = "%1$@";
+
+/* CountryCodes TableViewCell label %@{localizedName} */
+"com.auth0.passwordless.sms.country.cell.label" = "%1$@";
+
+/* Passwordless sms title */
+"com.auth0.passwordless.sms.title" = "ป้อนโทรศัพท์ของคุณเพื่อลงชื่อเข้าใช้หรือสร้างบัญชี";
+
+/* Passwordless sms title with social */
+"com.auth0.passwordless.sms.title.social" = "มิฉะนั้นให้ป้อนโทรศัพท์ของคุณเพื่อลงชื่อเข้าใช้หรือสร้างบัญชี";
