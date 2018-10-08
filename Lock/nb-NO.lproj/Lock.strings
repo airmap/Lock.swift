@@ -35,7 +35,7 @@
 "com.auth0.lock.enterprise.sso.message" = "Angi firmalegitimasjon";
 
 /* enter corporate credentials of domain %@{email domain} */
-"com.auth0.lock.enterprise.sso.message_at" = "Angi firmalegitimasjon på %1$ @";
+"com.auth0.lock.enterprise.sso.message_at" = "Angi firmalegitimasjon på %1$@";
 
 /* SSO Header */
 "com.auth0.lock.enterprise.sso.title" = "SINGLE SIGN-ON AKTIVERT";
@@ -350,7 +350,7 @@
 "com.auth0.passwordless.code.reminder" = "Fikk ikke koden?";
 
 /* Passwordless code sent by email to %@{identifier} */
-"com.auth0.passwordless.email.code.sent" = "En email med koden er sendt til %1$ @";
+"com.auth0.passwordless.email.code.sent" = "En email med koden er sendt til %1$@";
 
 /* Passwordless email title */
 "com.auth0.passwordless.email.title" = "Skriv inn din epost for å logge på eller opprette en konto.";

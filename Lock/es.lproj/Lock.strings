@@ -143,7 +143,7 @@
 "com.auth0.lock.error.unrecoverable.invalid_credentials" = "Sus credenciales Auth0 Id_cliente y dominio no son válidos.";
 
 /* Your options configuration failed with: %@{error} */
-"com.auth0.lock.error.unrecoverable.invalid_options" = "Configuración de opciones no pudo con: 1% $@";
+"com.auth0.lock.error.unrecoverable.invalid_options" = "Configuración de opciones no pudo con: %1$@";
 
 /* Unrecoverable error message */
 "com.auth0.lock.error.unrecoverable.message" = "Hubo un error inesperado durante la resolución de la configuración de la caja de inicio de sesión.";
@@ -329,10 +329,10 @@
 "com.auth0.lock.strategy.localized.yandex" = "YANDEX";
 
 /* Log in with %@{strategy} */
-"com.auth0.lock.strategy.login.title" = "INICIE SESIÓN EN CON 1% $@";
+"com.auth0.lock.strategy.login.title" = "INICIE SESIÓN EN CON %1$@";
 
 /* Sign up with %@{strategy} */
-"com.auth0.lock.strategy.signup.title" = "FIRMAR PARA ARRIBA CON EL 1% $@";
+"com.auth0.lock.strategy.signup.title" = "FIRMAR PARA ARRIBA CON EL %1$@";
 
 /* Login Button title */
 "com.auth0.lock.submit.login.title" = "Inicia sesión";
@@ -350,7 +350,7 @@
 "com.auth0.passwordless.code.reminder" = "¿No consiguieron el código?";
 
 /* Passwordless code sent by email to %@{identifier} */
-"com.auth0.passwordless.email.code.sent" = "Un correo electrónico con el código ha sido enviado a 1% $@";
+"com.auth0.passwordless.email.code.sent" = "Un correo electrónico con el código ha sido enviado a %1$@";
 
 /* Passwordless email title */
 "com.auth0.passwordless.email.title" = "Ingresa tu email para iniciar sesión o crear una cuenta.";
@@ -362,16 +362,16 @@
 "com.auth0.passwordless.link.reminder" = "¿No recibieron el enlace?";
 
 /* Passwordless link sent to %@{identifier} */
-"com.auth0.passwordless.link.sent" = "Te enviamos un enlace para iniciar sesión en %1$ @";
+"com.auth0.passwordless.link.sent" = "Te enviamos un enlace para iniciar sesión en %1$@";
 
 /* Passwordless code sent by sms to %@{identifier} */
-"com.auth0.passwordless.sms.code.sent" = "Se ha enviado un sms con el código al 1% $@";
+"com.auth0.passwordless.sms.code.sent" = "Se ha enviado un sms con el código al %1$@";
 
 /* CountryCodes TableViewCell detail %@{phoneCode} */
-"com.auth0.passwordless.sms.country.cell.detail" = "1% $@";
+"com.auth0.passwordless.sms.country.cell.detail" = "%1$@";
 
 /* CountryCodes TableViewCell label %@{localizedName} */
-"com.auth0.passwordless.sms.country.cell.label" = "1% $@";
+"com.auth0.passwordless.sms.country.cell.label" = "%1$@";
 
 /* Passwordless sms title */
 "com.auth0.passwordless.sms.title" = "Introduzca su teléfono para iniciar sesión o crear una cuenta.";

@@ -92,7 +92,7 @@
 "com.auth0.lock.error.password.should_contain" = "ควรประกอบด้วย:";
 
 /* Special Characters */
-"com.auth0.lock.error.password.special_characters" = "ตัวอักษรพิเศษ (เช่น! @ # $";
+"com.auth0.lock.error.password.special_characters" = "ตัวอักษรพิเศษ (เช่น !@#$%^&*)";
 
 /* Uppercase letters */
 "com.auth0.lock.error.password.uppercase_letters" = "ตัวอักษรพิมพ์ใหญ่ (a-z)";
