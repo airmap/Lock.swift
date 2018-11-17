@@ -1,14 +1,14 @@
 /* Forgot password */
-"com.auth0.lock.database.button.forgot_password" = "Nie pamiętasz hasła?";
+"com.auth0.lock.database.button.forgot_password" = "NIe pamiętasz hasła?";
 
 /* tos & privacy */
-"com.auth0.lock.database.button.tos" = "Rejestrując się, zgadzasz się z naszymi warunkami of\n usługi i Polityka prywatności";
+"com.auth0.lock.database.button.tos" = "Rejestrując się, akceptujesz nasz\n regulamin i politykę prywatności.";
 
 /* forgot password email sent */
-"com.auth0.lock.database.forgot.success.message" = "Właśnie wysłałem Ci e-mail, aby zresetować hasło";
+"com.auth0.lock.database.forgot.success.message" = "Właśnie wysłaliśmy do Ciebie wiadomość e-mail z prośbą o zresetowanie hasła.";
 
 /* User logged in */
-"com.auth0.lock.database.login.success.message" = "Użytkownik zalogował się pomyślnie.";
+"com.auth0.lock.database.login.success.message" = "Logowanie zakończone sukcesem.";
 
 /* Login Switch */
 "com.auth0.lock.database.mode.switcher.login" = "Zaloguj się";
@@ -17,7 +17,7 @@
 "com.auth0.lock.database.mode.switcher.signup" = "Zarejestruj się";
 
 /* Social separator */
-"com.auth0.lock.database.separator" = "Lub";
+"com.auth0.lock.database.separator" = "lub";
 
 /* User signed up */
 "com.auth0.lock.database.signup.success.message" = "Dziękujemy za rejestrację.";
@@ -29,160 +29,160 @@
 "com.auth0.lock.database.tos.sheet.privacy" = "Polityka prywatności";
 
 /* ToS */
-"com.auth0.lock.database.tos.sheet.title" = "Warunki korzystania z usług";
+"com.auth0.lock.database.tos.sheet.title" = "Regulamin usług";
 
 /* enter corporate credentials */
-"com.auth0.lock.enterprise.sso.message" = "Podaj swoje dane firmowe";
+"com.auth0.lock.enterprise.sso.message" = "Podaj firmowe dane uwierzytelniające.";
 
 /* enter corporate credentials of domain %@{email domain} */
-"com.auth0.lock.enterprise.sso.message_at" = "Podaj swoje dane firmowe na %1$@";
+"com.auth0.lock.enterprise.sso.message_at" = "Podaj firmowe dane uwierzytelniające  %1$@.";
 
 /* SSO Header */
-"com.auth0.lock.enterprise.sso.title" = "Jednokrotne logowanie włączone";
+"com.auth0.lock.enterprise.sso.title" = "WŁĄCZONE POJEDYNCZE LOGOWANIE.";
 
 /* user is blocked */
-"com.auth0.lock.error.authentication.blocked_user" = "Użytkownik jest zablokowany.";
+"com.auth0.lock.error.authentication.blocked_user" = "UŻYTKOWNIK ZABLOKOWANY.";
 
 /* Generic login error */
-"com.auth0.lock.error.authentication.fallback" = "Przykro nam, gdy próbuję się zalogować, coś poszło nie tak.";
+"com.auth0.lock.error.authentication.fallback" = "PRZEPRASZAMY, COŚ SIĘ NIE POWIODŁO PODCZAS PRÓBY ZALOGOWANIA SIĘ.";
 
 /* invalid_user_password */
-"com.auth0.lock.error.authentication.invalid_user_password" = "Nieprawidłowy adres e-mail lub hasło.";
+"com.auth0.lock.error.authentication.invalid_user_password" = "BŁĘDNY E-MAIL LUB HASŁO";
 
 /* a0.mfa_invalid_code */
-"com.auth0.lock.error.authentication.mfa_invalid_code" = "Błędny kod.";
+"com.auth0.lock.error.authentication.mfa_invalid_code" = "NIEPOPRAWNY KOD.";
 
 /* No valid connection */
-"com.auth0.lock.error.authentication.no_connection" = "Przepraszamy, nie udało nam się znaleźć ważnego połączenia dla tego użytkownika.";
+"com.auth0.lock.error.authentication.no_connection" = "PRZEPRASZAMY, NIE MOŻEMY POŁĄCZYĆ TEGO UŻYTKOWNIKA.";
 
 /* password_change_required */
-"com.auth0.lock.error.authentication.password_change_required" = "Musisz zaktualizować hasło, ponieważ jest to pierwszy czas logowania lub hasło wygasło.";
+"com.auth0.lock.error.authentication.password_change_required" = "MUSISZ ZAKTUALIZOWAĆ HASŁO, GDYŻ LOGUJESZ SIĘ PO RAZ PIERWSZY LUB TWOJE HASŁO WYGASŁO.";
 
 /* password_leaked */
-"com.auth0.lock.error.authentication.password_leaked" = "To logowanie zostało zablokowane, ponieważ hasło zostało przeciekły w innej witrynie sieci Web. Wysłaliśmy Ci e-mail z instrukcjami, jak go odblokować.";
+"com.auth0.lock.error.authentication.password_leaked" = "TEN LOGIN ZOSTAŁ ZABLOKOWANY, PONIEWAŻ TWOJE HASŁO ZOSTAŁO PRZEJĘTE PRZEZ INNĄ STRONĘ INTERNETOWĄ. PRZESŁALIŚMY DO CIEBIE WIADOMOŚĆ E-MAIL Z INSTRUKCJAMI, W JAKI SPOSÓB ODBLOKOWAĆ KONTO.";
 
 /* too_many_attempts */
-"com.auth0.lock.error.authentication.too_many_attempts" = "Twoje konto zostało zablokowane po wielu kolejnych próbach logowania.";
+"com.auth0.lock.error.authentication.too_many_attempts" = "TWOJE KONTO ZOSTAŁO ZABLOKOWANE PO WIELOKROTNYCH PRÓBACH ZALOGOWANIA SIĘ.";
 
 /* Generic error */
-"com.auth0.lock.error.fallback" = "Coś poszło nie tak. \ nProszę skontaktuj się z pomocą techniczną.";
+"com.auth0.lock.error.fallback" = "COŚ SIĘ NIE POWIODŁO.\nPROSIMY O KONTAKT Z DZIAŁEM WSPARCIA TECHNICZNEGO.";
 
 /* Generic password error */
-"com.auth0.lock.error.forgot.fallback" = "Przykro nam, coś poszło nie tak, gdy prośba o zmianę hasła.";
+"com.auth0.lock.error.forgot.fallback" = "PRZEPRASZAMY, COŚ SIĘ NIE POWIODŁO PODCZAS ŻĄDANIA ZMIANY HASŁA.";
 
 /* At least N characters */
-"com.auth0.lock.error.password.at_least_length" = "Najmniej %d znaki długości";
+"com.auth0.lock.error.password.at_least_length" = "o długości przynajmniej %d znaków";
 
 /* At least n groups */
-"com.auth0.lock.error.password.contain_at_least" = "Zawierać co najmniej %d z następujących %d rodzaje znaków:";
+"com.auth0.lock.error.password.contain_at_least" = "zawierać przynajmniej %d z następujących %d rodzajów znaków:";
 
 /* Lowercase letters */
 "com.auth0.lock.error.password.lowercase_letters" = "Małe litery (a-z)";
 
 /* Must no be empty */
-"com.auth0.lock.error.password.non_empty" = "Wymagane niepuste hasło";
+"com.auth0.lock.error.password.non_empty" = "Puste hasło jest niedozwolone.";
 
 /* No more than %@{count} identical characters in a row (e.g., \"%@{identical sample}\" not allowed) */
-"com.auth0.lock.error.password.no_more_identical" = "Nie więcej niż %1$d identyczne znaki w rzędzie (np. '%2$@' niedozwolone)";
+"com.auth0.lock.error.password.no_more_identical" = "Nie więcej niż  %1$d identycznych znaków z rzędu (np. „%2$@" jest niedozwolone)";
 
 /* Numbers */
-"com.auth0.lock.error.password.numbers" = "Numery (tj. 0-9)";
+"com.auth0.lock.error.password.numbers" = "Cyfry (np. 0-9)";
 
 /* N groups */
-"com.auth0.lock.error.password.should_contain" = "Powinny zawierać:";
+"com.auth0.lock.error.password.should_contain" = "Powinno zawierać:";
 
 /* Special Characters */
 "com.auth0.lock.error.password.special_characters" = "Znaki specjalne (np.! @ # $% ^ & *)";
 
 /* Uppercase letters */
-"com.auth0.lock.error.password.uppercase_letters" = "Wielkie litery (A-z)";
+"com.auth0.lock.error.password.uppercase_letters" = "Wielkie litery (A-Z)";
 
 /* Passwordless link invalid. */
-"com.auth0.lock.error.passwordless.invalid_link" = "Przepraszamy, wystąpił problem z Twoim linkiem. Prosimy o poproszenie nowego.";
+"com.auth0.lock.error.passwordless.invalid_link" = "PRZEPRASZAMY, POJAWIŁ SIĘ PROBLEM Z TWOIM LINKIEM. POPROŚ O NOWY LINK.";
 
 /* Passwordless sign ups disabled. */
-"com.auth0.lock.error.passwordless.signup_disabled" = "Nowe rejestracje są wyłączone dla tego konta, skontaktuj się z administratorem.";
+"com.auth0.lock.error.passwordless.signup_disabled" = "WYŁĄCZONA MOŻLIWOŚĆ DOKONANIA NOWEJ REJESTRACJI DLA TEGO KONTA, PROSZĘ SKONTAKTOWAĆ SIĘ Z ADMINISTRATOREM.";
 
 /* Recoverable error button */
-"com.auth0.lock.error.recoverable.button" = "Ponów próbę";
+"com.auth0.lock.error.recoverable.button" = "Spróbuj ponownie";
 
 /* Recoverable error message */
-"com.auth0.lock.error.recoverable.message" = "Proszę sprawdzić połączenie internetowe.";
+"com.auth0.lock.error.recoverable.message" = "Sprawdź swoje połączenie z internetem.";
 
 /* Recoverable error title */
-"com.auth0.lock.error.recoverable.title" = "Nie można załadować pola logowania";
+"com.auth0.lock.error.recoverable.title" = "Nie można załadować okna logowania.";
 
 /* Generic sign up error */
-"com.auth0.lock.error.signup.fallback" = "Przykro nam, gdy próbuję się zarejestrować, coś poszło nie tak.";
+"com.auth0.lock.error.signup.fallback" = "PRZEPRASZAMY, COŚ SIĘ NIE POWIODŁO PODCZAS PRÓBY ZAREJESTROWANIA SIĘ.";
 
 /* invalid_password */
-"com.auth0.lock.error.signup.invalid_password" = "Hasło jest nieprawidłowe.";
+"com.auth0.lock.error.signup.invalid_password" = "NIEPOPRAWNE HASŁO";
 
 /* password_dictionary_error */
-"com.auth0.lock.error.signup.password_dictionary_error" = "Hasło jest zbyt częste.";
+"com.auth0.lock.error.signup.password_dictionary_error" = "HASŁO JEST ZBYT POSPOLITE";
 
 /* password_history */
-"com.auth0.lock.error.signup.password_history" = "Hasło zostało wcześniej użyte.";
+"com.auth0.lock.error.signup.password_history" = "TO HASŁO WCZEŚNIEJ JUŻ ZOSTAŁO WYKORZYSTANE.";
 
 /* password_no_user_info_error */
-"com.auth0.lock.error.signup.password_no_user_info_error" = "Hasło jest oparte na informacjach użytkownika.";
+"com.auth0.lock.error.signup.password_no_user_info_error" = "HASŁO JEST OPARTE NA INFORMACJACH UŻYTKOWNIKA.";
 
 /* password_strength_error */
-"com.auth0.lock.error.signup.password_strength_error" = "Hasło jest za słabe.";
+"com.auth0.lock.error.signup.password_strength_error" = "HASŁO JEST ZA SŁABE.";
 
 /* user_exists */
-"com.auth0.lock.error.signup.user_exists" = "Użytkownik już istnieje.";
+"com.auth0.lock.error.signup.user_exists" = "TAKI UŻYTKOWNIK JUŻ ISTNIEJE.";
 
 /* Unrecoverable error button */
-"com.auth0.lock.error.unrecoverable.button" = "Skontaktuj się z obsługą";
+"com.auth0.lock.error.unrecoverable.button" = "Skontaktuj się z działem pomocy.";
 
 /* Default error */
-"com.auth0.lock.error.unrecoverable.default" = "Coś poszło nie tak. \ nProszę skontaktuj się z pomocą techniczną.";
+"com.auth0.lock.error.unrecoverable.default" = "Coś się nie powiodło.\nSkontaktuj się z działem pomocy technicznej.";
 
 /* Invalid client or domain */
-"com.auth0.lock.error.unrecoverable.invalid_credentials" = "Twoje Auth0 poświadczenia ClientId i/lub domena są nieprawidłowe.";
+"com.auth0.lock.error.unrecoverable.invalid_credentials" = "Twoje dane uwierzytelniające Auth0 ClientId i/lub domena są nieprawidłowe.";
 
 /* Your options configuration failed with: %@{error} */
-"com.auth0.lock.error.unrecoverable.invalid_options" = "Konfiguracja opcji nie powiodła się: %1$@";
+"com.auth0.lock.error.unrecoverable.invalid_options" = "Twoja konfiguracja opcji  %1$@ nie powiodła się.";
 
 /* Unrecoverable error message */
-"com.auth0.lock.error.unrecoverable.message" = "Wystąpił nieoczekiwany błąd podczas rozpoznawania konfiguracji pola logowania.";
+"com.auth0.lock.error.unrecoverable.message" = "Wystąpił nieoczekiwany błąd podczas rozwiązywania konfiguracji pola logowania.";
 
 /* Unrecoverable error message */
-"com.auth0.lock.error.unrecoverable.message.no_action" = "Wystąpił nieoczekiwany błąd podczas rozpoznawania konfiguracji pola logowania, skontaktuj się z obsługą.";
+"com.auth0.lock.error.unrecoverable.message.no_action" = "Wystąpił nieoczekiwany błąd podczas rozwiązywania konfiguracji pola logowania, skontaktuj się z działem pomocy technicznej.";
 
 /* No connections */
-"com.auth0.lock.error.unrecoverable.no_connections" = "Dla tego klienta nie znaleziono żadnych metod uwierzytelniania. Proszę sprawdzić konfigurację klienta.";
+"com.auth0.lock.error.unrecoverable.no_connections" = "Nie znaleziono metod uwierzytelniania dla tego klienta. Sprawdź ustawienia klienta.";
 
 /* Unrecoverable error title */
-"com.auth0.lock.error.unrecoverable.title" = "Nie można rozpoznać żądania";
+"com.auth0.lock.error.unrecoverable.title" = "Nie można rozwiązać Twojego żądania.";
 
 /* Forgot Password message */
-"com.auth0.lock.forgot.message" = "Podaj swój adres e-mail i nowe hasło. Wyślemy Ci wiadomość e-mail z potwierdzeniem zmiany hasła.";
+"com.auth0.lock.forgot.message" = "Wpisz swój adres e-mail oraz hasło. Wyślemy Ci wiadomość e-mail z potwierdzeniem zmiany hasła.";
 
 /* Forgot Password title */
-"com.auth0.lock.forgot.title" = "Resetuj hasło";
+"com.auth0.lock.forgot.title" = "Zresetuj hasło";
 
 /* Header Title */
 "com.auth0.lock.header.default_title" = "Auth0";
 
 /* invalid email */
-"com.auth0.lock.input.email.error" = "Musi być prawidłowy adres e-mail";
+"com.auth0.lock.input.email.error" = "Musi to być prawidłowy adres e-mail";
 
 /* Email placeholder */
-"com.auth0.lock.input.email.placeholder" = "Adres e-mail";
+"com.auth0.lock.input.email.placeholder" = "E-mail";
 
 /* Username or Email placeholder */
-"com.auth0.lock.input.email_username.placeholder" = "Nazwa użytkownika/email";
+"com.auth0.lock.input.email_username.placeholder" = "Nazwa użytkownika/e-mail";
 
 /* empty input */
-"com.auth0.lock.input.empty.error" = "Nie może być pusta";
+"com.auth0.lock.input.empty.error" = "Nie może być pusty.";
 
 /* generic input error */
 "com.auth0.lock.input.generic.error" = "Nieprawidłowe dane wejściowe";
 
 /* invalid otp */
-"com.auth0.lock.input.otp.error" = "Musi być prawidłowym kodem numerycznym";
+"com.auth0.lock.input.otp.error" = "Musi to być prawidłowy kod numeryczny.";
 
 /* OTP placeholder */
 "com.auth0.lock.input.otp.placeholder" = "Kod";
@@ -191,25 +191,25 @@
 "com.auth0.lock.input.password.placeholder" = "Hasło";
 
 /* invalid phone */
-"com.auth0.lock.input.phone.error" = "Musi być ważnym numerem telefonu";
+"com.auth0.lock.input.phone.error" = "Musi to być prawidłowy numer telefonu.";
 
 /* Phone placeholder */
 "com.auth0.lock.input.phone.placeholder" = "Numer telefonu";
 
 /* policy violation */
-"com.auth0.lock.input.policy.error" = "Hasło nie spełnia zasad";
+"com.auth0.lock.input.policy.error" = "Hasło nie spełnia zasad polityki.";
 
 /* invalid username */
-"com.auth0.lock.input.username.error" = "Może zawierać tylko między %d do %d znaków alfanumerycznych i '_'.";
+"com.auth0.lock.input.username.error" = "Może zawierać tylko od %d do %d znaków alfanumerycznych i '_'.";
 
 /* Username placeholder */
-"com.auth0.lock.input.username.placeholder" = "Nazwę użytkownika";
+"com.auth0.lock.input.username.placeholder" = "Nazwa Użytkownika";
 
 /* Multifactor message */
 "com.auth0.lock.multifactor.message" = "Wprowadź kod weryfikacyjny wygenerowany przez aplikację mobilną.";
 
 /* Multifactor title */
-"com.auth0.lock.multifactor.title" = "Dwustopniowa weryfikacja";
+"com.auth0.lock.multifactor.title" = "Weryfikacja dwuetapowa";
 
 /* Country tableview navigation header */
 "com.auth0.lock.passwordless.sms.country.header" = "Wybierz swój kraj";
@@ -218,142 +218,142 @@
 "com.auth0.lock.passwordless.sms.country.search" = "Szukaj";
 
 /* Amazon */
-"com.auth0.lock.strategy.localized.amazon" = "Amazon";
+"com.auth0.lock.strategy.localized.amazon" = "AMAZON";
 
 /* Aol */
-"com.auth0.lock.strategy.localized.aol" = "Aol";
+"com.auth0.lock.strategy.localized.aol" = "AOL";
 
 /* Baidu */
 "com.auth0.lock.strategy.localized.baidu" = "百度";
 
 /* Bitbucket */
-"com.auth0.lock.strategy.localized.bitbucket" = "Bitbucket";
+"com.auth0.lock.strategy.localized.bitbucket" = "BITBUCKET";
 
 /* Dropbox */
-"com.auth0.lock.strategy.localized.dropbox" = "Dropbox";
+"com.auth0.lock.strategy.localized.dropbox" = "DROPBOX";
 
 /* Dwolla */
 "com.auth0.lock.strategy.localized.dwolla" = "DWOLLA";
 
 /* Ebay */
-"com.auth0.lock.strategy.localized.ebay" = "Ebay";
+"com.auth0.lock.strategy.localized.ebay" = "EBAY";
 
 /* Evernote */
-"com.auth0.lock.strategy.localized.evernote" = "Evernote";
+"com.auth0.lock.strategy.localized.evernote" = "EVERNOTE";
 
 /* EvernoteSandbox */
-"com.auth0.lock.strategy.localized.evernote_sandbox" = "Evernote (piaskownica)";
+"com.auth0.lock.strategy.localized.evernote_sandbox" = "EVERNOTE (SANDBOX)";
 
 /* Exact */
-"com.auth0.lock.strategy.localized.exact" = "Dokładne";
+"com.auth0.lock.strategy.localized.exact" = "EXACT";
 
 /* Facebook */
-"com.auth0.lock.strategy.localized.facebook" = "Facebook";
+"com.auth0.lock.strategy.localized.facebook" = "FACEBOOK";
 
 /* Fitbit */
-"com.auth0.lock.strategy.localized.fitbit" = "Fitbit";
+"com.auth0.lock.strategy.localized.fitbit" = "FITBIT";
 
 /* Github */
-"com.auth0.lock.strategy.localized.github" = "Github";
+"com.auth0.lock.strategy.localized.github" = "GITHUB";
 
 /* Google */
-"com.auth0.lock.strategy.localized.google" = "Google";
+"com.auth0.lock.strategy.localized.google" = "GOOGLE";
 
 /* Instagram */
-"com.auth0.lock.strategy.localized.instagram" = "Instagram";
+"com.auth0.lock.strategy.localized.instagram" = "INSTAGRAM";
 
 /* Linkedin */
-"com.auth0.lock.strategy.localized.linkedin" = "Linkedin";
+"com.auth0.lock.strategy.localized.linkedin" = "LINKEDIN";
 
 /* Microsoft */
-"com.auth0.lock.strategy.localized.microsoft" = "Konto Microsoft";
+"com.auth0.lock.strategy.localized.microsoft" = "MICROSOFT ACCOUNT";
 
 /* Miicard */
 "com.auth0.lock.strategy.localized.miicard" = "MIICARD";
 
 /* Paypal */
-"com.auth0.lock.strategy.localized.paypal" = "PayPal";
+"com.auth0.lock.strategy.localized.paypal" = "PAYPAL";
 
 /* PaypalSandbox */
-"com.auth0.lock.strategy.localized.paypal_sandbox" = "PayPal (piaskownica)";
+"com.auth0.lock.strategy.localized.paypal_sandbox" = "PAYPAL (SANDBOX)";
 
 /* PlanningCenter */
-"com.auth0.lock.strategy.localized.planning_center" = "Centrum planowania";
+"com.auth0.lock.strategy.localized.planning_center" = "PLANNING CENTER";
 
 /* RenRen */
 "com.auth0.lock.strategy.localized.renren" = "人人";
 
 /* Salesforce */
-"com.auth0.lock.strategy.localized.salesforce" = "Salesforce";
+"com.auth0.lock.strategy.localized.salesforce" = "SALESFORCE";
 
 /* SalesforceCommunity */
-"com.auth0.lock.strategy.localized.salesforce_community" = "SALESFORCE społeczność";
+"com.auth0.lock.strategy.localized.salesforce_community" = "SALESFORCE COMMUNITY";
 
 /* SalesforceSandbox */
-"com.auth0.lock.strategy.localized.salesforce_sandbox" = "SALESFORCE (Sandbox)";
+"com.auth0.lock.strategy.localized.salesforce_sandbox" = "SALESFORCE (SANDBOX)";
 
 /* Shopify */
 "com.auth0.lock.strategy.localized.shopify" = "SHOPIFY";
 
 /* Soundcloud */
-"com.auth0.lock.strategy.localized.soundcloud" = "Soundcloud";
+"com.auth0.lock.strategy.localized.soundcloud" = "SOUNDCLOUD";
 
 /* TheCity */
-"com.auth0.lock.strategy.localized.the_city" = "W mieście";
+"com.auth0.lock.strategy.localized.the_city" = "THE CITY";
 
 /* TheCitySandbox */
-"com.auth0.lock.strategy.localized.the_city_sandbox" = "Miasto (piaskownica)";
+"com.auth0.lock.strategy.localized.the_city_sandbox" = "THE CITY (SANDBOX)";
 
 /* ThirtySevenSignals */
-"com.auth0.lock.strategy.localized.thirty_seven_signals" = "37 sygnały";
+"com.auth0.lock.strategy.localized.thirty_seven_signals" = "37 SIGNALS";
 
 /* Twitter */
-"com.auth0.lock.strategy.localized.twitter" = "Twitter";
+"com.auth0.lock.strategy.localized.twitter" = "TWITTER";
 
 /* Vkontakte */
-"com.auth0.lock.strategy.localized.vkontakte" = "Vkontakte";
+"com.auth0.lock.strategy.localized.vkontakte" = "VKONTAKTE";
 
 /* Weibo */
 "com.auth0.lock.strategy.localized.weibo" = "新浪微博";
 
 /* Wordpress */
-"com.auth0.lock.strategy.localized.wordpress" = "Wordpress";
+"com.auth0.lock.strategy.localized.wordpress" = "WORDPRESS";
 
 /* Yahoo */
-"com.auth0.lock.strategy.localized.yahoo" = "Yahoo!";
+"com.auth0.lock.strategy.localized.yahoo" = "YAHOO!";
 
 /* Yammer */
-"com.auth0.lock.strategy.localized.yammer" = "Yammer";
+"com.auth0.lock.strategy.localized.yammer" = "YAMMER";
 
 /* Yandex */
-"com.auth0.lock.strategy.localized.yandex" = "Yandex";
+"com.auth0.lock.strategy.localized.yandex" = "YANDEX";
 
 /* Log in with %@{strategy} */
-"com.auth0.lock.strategy.login.title" = "Zaloguj się za pomocą %1$@";
+"com.auth0.lock.strategy.login.title" = "ZALOGUJ SIĘ, UŻYWAJĄC %1$@.";
 
 /* Sign up with %@{strategy} */
-"com.auth0.lock.strategy.signup.title" = "Zarejestruj się z %1$@";
+"com.auth0.lock.strategy.signup.title" = "ZAREJESTRUJ SIĘ UŻYWAJĄC %1$@.";
 
 /* Login Button title */
-"com.auth0.lock.submit.login.title" = "Zaloguj się";
+"com.auth0.lock.submit.login.title" = "ZALOGUJ SIĘ";
 
 /* Send 2fa code */
-"com.auth0.lock.submit.send_code.title" = "Wyślij";
+"com.auth0.lock.submit.send_code.title" = "WYŚLIJ";
 
 /* Send Email button title */
-"com.auth0.lock.submit.send_email.title" = "Wyślij e-mail";
+"com.auth0.lock.submit.send_email.title" = "WYŚLIJ WIADOMOŚĆ E-MAIL.";
 
 /* Signup Button title */
-"com.auth0.lock.submit.signup.title" = "Zarejestruj się";
+"com.auth0.lock.submit.signup.title" = "ZAREJESTRUJ SIĘ";
 
 /* Passwordless code reminder action */
-"com.auth0.passwordless.code.reminder" = "Nie otrzymasz kodu?";
+"com.auth0.passwordless.code.reminder" = "Nie otrzymałeś kodu?";
 
 /* Passwordless code sent by email to %@{identifier} */
-"com.auth0.passwordless.email.code.sent" = "Wiadomość e-mail z kodem została wysłana do %1$@";
+"com.auth0.passwordless.email.code.sent" = "Wiadomość e-mail z kodem została wysłana na adres %1$@.";
 
 /* Passwordless email title */
-"com.auth0.passwordless.email.title" = "Wpisz swój adres e-mail, aby się zalogować lub utworzyć konto.";
+"com.auth0.passwordless.email.title" = "Aby się zalogować lub założyć konto, podaj swój adres e-mail.";
 
 /* Passwordless email title with social */
 "com.auth0.passwordless.email.title.social" = "W przeciwnym razie wpisz swój adres e-mail, aby się zalogować lub utworzyć konto.";
@@ -362,10 +362,10 @@
 "com.auth0.passwordless.link.reminder" = "Nie otrzymałeś linku?";
 
 /* Passwordless link sent to %@{identifier} */
-"com.auth0.passwordless.link.sent" = "Wysłaliśmy Ci link do logowania się na %1$@";
+"com.auth0.passwordless.link.sent" = "Link do logowania został wysłany na adres %1$@.";
 
 /* Passwordless code sent by sms to %@{identifier} */
-"com.auth0.passwordless.sms.code.sent" = "SMS z kodem został wysłany do %1$@";
+"com.auth0.passwordless.sms.code.sent" = "Wiadomość sms została wysłana na numer %1$@.";
 
 /* CountryCodes TableViewCell detail %@{phoneCode} */
 "com.auth0.passwordless.sms.country.cell.detail" = "%1$@";
@@ -374,7 +374,7 @@
 "com.auth0.passwordless.sms.country.cell.label" = "%1$@";
 
 /* Passwordless sms title */
-"com.auth0.passwordless.sms.title" = "Wprowadź swój telefon, aby zalogować się lub utworzyć konto.";
+"com.auth0.passwordless.sms.title" = "Aby się zalogować lub założyć konto, podaj swój numer telefonu.";
 
 /* Passwordless sms title with social */
-"com.auth0.passwordless.sms.title.social" = "W przeciwnym razie wprowadź swój telefon, aby zalogować się lub utworzyć konto.";
+"com.auth0.passwordless.sms.title.social" = "W przeciwnym razie podaj swój numer telefonu, aby się zalogować lub utworzyć konto.";
