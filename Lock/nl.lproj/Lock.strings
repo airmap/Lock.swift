@@ -1,0 +1,380 @@
+/* Forgot password */
+"com.auth0.lock.database.button.forgot_password" = "Zorg dat u uw wachtwoord bent vergeten?";
+
+/* tos & privacy */
+"com.auth0.lock.database.button.tos" = "Door omhoog te ondertekenen, akkoord u met onze gebruiksvoorwaarden en het privacybeleid";
+
+/* forgot password email sent */
+"com.auth0.lock.database.forgot.success.message" = "We hebben net stuurde u een e-mail om uw wachtwoord te resetten";
+
+/* User logged in */
+"com.auth0.lock.database.login.success.message" = "U bent succesvol ingelogd.";
+
+/* Login Switch */
+"com.auth0.lock.database.mode.switcher.login" = "Aanmelden";
+
+/* Signup Switch */
+"com.auth0.lock.database.mode.switcher.signup" = "Aanmelden";
+
+/* Social separator */
+"com.auth0.lock.database.separator" = "of";
+
+/* User signed up */
+"com.auth0.lock.database.signup.success.message" = "Bedankt voor het aanmelden.";
+
+/* Cancel */
+"com.auth0.lock.database.tos.sheet.cancel" = "Annuleren";
+
+/* Privacy */
+"com.auth0.lock.database.tos.sheet.privacy" = "Privacybeleid";
+
+/* ToS */
+"com.auth0.lock.database.tos.sheet.title" = "Algemene gebruiksvoorwaarden";
+
+/* enter corporate credentials */
+"com.auth0.lock.enterprise.sso.message" = "Voer uw zakelijke referenties";
+
+/* enter corporate credentials of domain %@{email domain} */
+"com.auth0.lock.enterprise.sso.message_at" = "Voer uw zakelijke referenties op %1$@";
+
+/* SSO Header */
+"com.auth0.lock.enterprise.sso.title" = "SINGLE SIGN-ON INGESCHAKELD";
+
+/* user is blocked */
+"com.auth0.lock.error.authentication.blocked_user" = "DE GEBRUIKER IS GEBLOKKEERD.";
+
+/* Generic login error */
+"com.auth0.lock.error.authentication.fallback" = "HET SPIJT ONS, DAT ER GING IETS MIS BIJ HET LOG IN.";
+
+/* invalid_user_password */
+"com.auth0.lock.error.authentication.invalid_user_password" = "VERKEERDE E-MAIL OF WACHTWOORD.";
+
+/* a0.mfa_invalid_code */
+"com.auth0.lock.error.authentication.mfa_invalid_code" = "FOUTE CODE.";
+
+/* No valid connection */
+"com.auth0.lock.error.authentication.no_connection" = "WIJ ZIJN DROEVIG, DAT KONDEN WE NIET VINDEN VAN EEN GELDIGE VERBINDING VOOR DEZE GEBRUIKER.";
+
+/* password_change_required */
+"com.auth0.lock.error.authentication.password_change_required" = "U MOET BIJWERKEN VAN UW WACHTWOORD, OMDAT DIT DE EERSTE KEER DAT U ZICH AANMELDT IN, OF OMDAT UW WACHTWOORD IS VERLOPEN.";
+
+/* password_leaked */
+"com.auth0.lock.error.authentication.password_leaked" = "DEZE LOGIN IS GEBLOKKEERD OMDAT UW WACHTWOORD GEWEEST IN EEN ANDERE WEBSITE LEKKEN HEEFT. WE STUURDE U EEN E-MAIL MET INSTRUCTIES OP HOE TE HET TE DEBLOKKEREN.";
+
+/* too_many_attempts */
+"com.auth0.lock.error.authentication.too_many_attempts" = "UW ACCOUNT IS GEBLOKKEERD NA MEERDERE OPEENVOLGENDE LOGIN POGINGEN.";
+
+/* Generic error */
+"com.auth0.lock.error.fallback" = "SOMETHING WENT WRONG. NEEM CONTACT OP MET TECHNISCHE ONDERSTEUNING.";
+
+/* Generic password error */
+"com.auth0.lock.error.forgot.fallback" = "ONZE EXCUSES, DAT ER GING IETS MIS BIJ HET AANVRAGEN VAN DE WACHTWOORDWIJZIGING.";
+
+/* At least N characters */
+"com.auth0.lock.error.password.at_least_length" = "Minstens %d karakters in lengte";
+
+/* At least n groups */
+"com.auth0.lock.error.password.contain_at_least" = "Bevat ten minste %d van de volgende %d typen tekens:";
+
+/* Lowercase letters */
+"com.auth0.lock.error.password.lowercase_letters" = "Kleine letters (a-z)";
+
+/* Must no be empty */
+"com.auth0.lock.error.password.non_empty" = "Niet-lege wachtwoord vereist";
+
+/* No more than %@{count} identical characters in a row (e.g., \"%@{identical sample}\" not allowed) */
+"com.auth0.lock.error.password.no_more_identical" = "Niet meer dan %1$d identieke tekens in een rij (bijvoorbeeld "%2$@" niet toegestaan)";
+
+/* Numbers */
+"com.auth0.lock.error.password.numbers" = "Getallen (d.w.z. 0-9)";
+
+/* N groups */
+"com.auth0.lock.error.password.should_contain" = "Moet bevatten:";
+
+/* Special Characters */
+"com.auth0.lock.error.password.special_characters" = "Speciale tekens (bijvoorbeeld !@# $% ^&*)";
+
+/* Uppercase letters */
+"com.auth0.lock.error.password.uppercase_letters" = "Hoofdletters (A-Z)";
+
+/* Passwordless link invalid. */
+"com.auth0.lock.error.passwordless.invalid_link" = "HET SPIJT ONS, ER WAS EEN PROBLEEM MET UW LINK. VRAAG DAN EEN NIEUWE.";
+
+/* Passwordless sign ups disabled. */
+"com.auth0.lock.error.passwordless.signup_disabled" = "NIEUWE TEKEN UPS ZIJN UITGESCHAKELD VOOR DEZE ACCOUNT, CONTACT PLEASE YOUR ADMINISTRATOR.";
+
+/* Recoverable error button */
+"com.auth0.lock.error.recoverable.button" = "Opnieuw proberen";
+
+/* Recoverable error message */
+"com.auth0.lock.error.recoverable.message" = "Controleer uw internetverbinding.";
+
+/* Recoverable error title */
+"com.auth0.lock.error.recoverable.title" = "De login-box laden niet";
+
+/* Generic sign up error */
+"com.auth0.lock.error.signup.fallback" = "HET SPIJT ONS, ER GING IETS VERKEERD WANNEER U PROBEERT TE ONDERTEKENEN OMHOOG.";
+
+/* invalid_password */
+"com.auth0.lock.error.signup.invalid_password" = "WACHTWOORD IS ONGELDIG.";
+
+/* password_dictionary_error */
+"com.auth0.lock.error.signup.password_dictionary_error" = "WACHTWOORD IS OOK GEBRUIKELIJK.";
+
+/* password_history */
+"com.auth0.lock.error.signup.password_history" = "WACHTWOORD HEEFT EERDER GEBRUIKT.";
+
+/* password_no_user_info_error */
+"com.auth0.lock.error.signup.password_no_user_info_error" = "WACHTWOORD IS GEBASEERD OP GEBRUIKERSINFORMATIE.";
+
+/* password_strength_error */
+"com.auth0.lock.error.signup.password_strength_error" = "WACHTWOORD IS TE ZWAK.";
+
+/* user_exists */
+"com.auth0.lock.error.signup.user_exists" = "DE GEBRUIKER BESTAAT AL.";
+
+/* Unrecoverable error button */
+"com.auth0.lock.error.unrecoverable.button" = "Contact opnemen met ondersteuning";
+
+/* Default error */
+"com.auth0.lock.error.unrecoverable.default" = "Er ging iets mis. Neem contact op met technische ondersteuning.";
+
+/* Invalid client or domain */
+"com.auth0.lock.error.unrecoverable.invalid_credentials" = "Uw Auth0 referenties ClientId en/of domein zijn ongeldig.";
+
+/* Your options configuration failed with: %@{error} */
+"com.auth0.lock.error.unrecoverable.invalid_options" = "De configuratie van uw opties is mislukt met: %1$@";
+
+/* Unrecoverable error message */
+"com.auth0.lock.error.unrecoverable.message" = "Er is een onverwachte fout opgetreden tijdens de verwerking van de login-box configuratie.";
+
+/* Unrecoverable error message */
+"com.auth0.lock.error.unrecoverable.message.no_action" = "Er is een onverwachte fout opgetreden tijdens de verwerking van de login-box configuratie, gelieve steun te contacteren.";
+
+/* No connections */
+"com.auth0.lock.error.unrecoverable.no_connections" = "Geen verificatiemethoden gevonden voor deze cliënt. Controleer uw client setup.";
+
+/* Unrecoverable error title */
+"com.auth0.lock.error.unrecoverable.title" = "Uw verzoek oplossen niet";
+
+/* Forgot Password message */
+"com.auth0.lock.forgot.message" = "Vul uw e-mailadres en het nieuwe wachtwoord. Wij sturen u een e-mail ter bevestiging van de wachtwoordwijziging.";
+
+/* Forgot Password title */
+"com.auth0.lock.forgot.title" = "Reset wachtwoord";
+
+/* Header Title */
+"com.auth0.lock.header.default_title" = "Auth0";
+
+/* invalid email */
+"com.auth0.lock.input.email.error" = "Moet een geldig e-mailadres";
+
+/* Email placeholder */
+"com.auth0.lock.input.email.placeholder" = "E-mail";
+
+/* Username or Email placeholder */
+"com.auth0.lock.input.email_username.placeholder" = "Gebruikersnaam/E-mail";
+
+/* empty input */
+"com.auth0.lock.input.empty.error" = "Moet niet leeg zijn";
+
+/* generic input error */
+"com.auth0.lock.input.generic.error" = "Ongeldige invoer";
+
+/* invalid otp */
+"com.auth0.lock.input.otp.error" = "Moet een geldige numerieke code";
+
+/* OTP placeholder */
+"com.auth0.lock.input.otp.placeholder" = "Code";
+
+/* Password placeholder */
+"com.auth0.lock.input.password.placeholder" = "Wachtwoord";
+
+/* invalid phone */
+"com.auth0.lock.input.phone.error" = "Moet een geldig telefoonnummer";
+
+/* Phone placeholder */
+"com.auth0.lock.input.phone.placeholder" = "Telefoonnummer";
+
+/* policy violation */
+"com.auth0.lock.input.policy.error" = "Wachtwoord voldoet niet aan beleid";
+
+/* invalid username */
+"com.auth0.lock.input.username.error" = "Kan alleen tussen %d naar %d alfanumerieke karakters en '_' bevatten.";
+
+/* Username placeholder */
+"com.auth0.lock.input.username.placeholder" = "Gebruikersnaam";
+
+/* Multifactor message */
+"com.auth0.lock.multifactor.message" = "Voer de verificatiecode gegenereerd door uw mobiele applicatie.";
+
+/* Multifactor title */
+"com.auth0.lock.multifactor.title" = "Twee stap-verificatie";
+
+/* Country tableview navigation header */
+"com.auth0.lock.passwordless.sms.country.header" = "Selecteer uw land";
+
+/* CountryCodes TableView searchbar placeholder */
+"com.auth0.lock.passwordless.sms.country.search" = "Zoek";
+
+/* Amazon */
+"com.auth0.lock.strategy.localized.amazon" = "AMAZON";
+
+/* Aol */
+"com.auth0.lock.strategy.localized.aol" = "AOL";
+
+/* Baidu */
+"com.auth0.lock.strategy.localized.baidu" = "百度";
+
+/* Bitbucket */
+"com.auth0.lock.strategy.localized.bitbucket" = "BITBUCKET";
+
+/* Dropbox */
+"com.auth0.lock.strategy.localized.dropbox" = "DROPBOX";
+
+/* Dwolla */
+"com.auth0.lock.strategy.localized.dwolla" = "DWOLLA";
+
+/* Ebay */
+"com.auth0.lock.strategy.localized.ebay" = "EBAY";
+
+/* Evernote */
+"com.auth0.lock.strategy.localized.evernote" = "EVERNOTE";
+
+/* EvernoteSandbox */
+"com.auth0.lock.strategy.localized.evernote_sandbox" = "EVERNOTE (SANDBOX)";
+
+/* Exact */
+"com.auth0.lock.strategy.localized.exact" = "EXACTE";
+
+/* Facebook */
+"com.auth0.lock.strategy.localized.facebook" = "FACEBOOK";
+
+/* Fitbit */
+"com.auth0.lock.strategy.localized.fitbit" = "FITBIT";
+
+/* Github */
+"com.auth0.lock.strategy.localized.github" = "GITHUB";
+
+/* Google */
+"com.auth0.lock.strategy.localized.google" = "GOOGLE";
+
+/* Instagram */
+"com.auth0.lock.strategy.localized.instagram" = "INSTAGRAM";
+
+/* Linkedin */
+"com.auth0.lock.strategy.localized.linkedin" = "LINKEDIN";
+
+/* Microsoft */
+"com.auth0.lock.strategy.localized.microsoft" = "MICROSOFT-ACCOUNT";
+
+/* Miicard */
+"com.auth0.lock.strategy.localized.miicard" = "MIICARD";
+
+/* Paypal */
+"com.auth0.lock.strategy.localized.paypal" = "PAYPAL";
+
+/* PaypalSandbox */
+"com.auth0.lock.strategy.localized.paypal_sandbox" = "PAYPAL (SANDBOX)";
+
+/* PlanningCenter */
+"com.auth0.lock.strategy.localized.planning_center" = "CENTER PLAN";
+
+/* RenRen */
+"com.auth0.lock.strategy.localized.renren" = "人人";
+
+/* Salesforce */
+"com.auth0.lock.strategy.localized.salesforce" = "SALESFORCE";
+
+/* SalesforceCommunity */
+"com.auth0.lock.strategy.localized.salesforce_community" = "SALESFORCE GEMEENSCHAP";
+
+/* SalesforceSandbox */
+"com.auth0.lock.strategy.localized.salesforce_sandbox" = "SALESFORCE (SANDBOX)";
+
+/* Shopify */
+"com.auth0.lock.strategy.localized.shopify" = "SHOPIFY";
+
+/* Soundcloud */
+"com.auth0.lock.strategy.localized.soundcloud" = "SOUNDCLOUD";
+
+/* TheCity */
+"com.auth0.lock.strategy.localized.the_city" = "DE STAD";
+
+/* TheCitySandbox */
+"com.auth0.lock.strategy.localized.the_city_sandbox" = "DE STAD (SANDBOX)";
+
+/* ThirtySevenSignals */
+"com.auth0.lock.strategy.localized.thirty_seven_signals" = "37 SIGNALEN";
+
+/* Twitter */
+"com.auth0.lock.strategy.localized.twitter" = "TWITTER";
+
+/* Vkontakte */
+"com.auth0.lock.strategy.localized.vkontakte" = "VKONTAKTE";
+
+/* Weibo */
+"com.auth0.lock.strategy.localized.weibo" = "新浪微博";
+
+/* Wordpress */
+"com.auth0.lock.strategy.localized.wordpress" = "WORDPRESS";
+
+/* Yahoo */
+"com.auth0.lock.strategy.localized.yahoo" = "YAHOO!";
+
+/* Yammer */
+"com.auth0.lock.strategy.localized.yammer" = "YAMMER";
+
+/* Yandex */
+"com.auth0.lock.strategy.localized.yandex" = "YANDEX";
+
+/* Log in with %@{strategy} */
+"com.auth0.lock.strategy.login.title" = "LOG IN MET %1$@";
+
+/* Sign up with %@{strategy} */
+"com.auth0.lock.strategy.signup.title" = "MELD U AAN MET %1$@";
+
+/* Login Button title */
+"com.auth0.lock.submit.login.title" = "Aanmelden";
+
+/* Send 2fa code */
+"com.auth0.lock.submit.send_code.title" = "Verzenden";
+
+/* Send Email button title */
+"com.auth0.lock.submit.send_email.title" = "STUUR E-MAIL";
+
+/* Signup Button title */
+"com.auth0.lock.submit.signup.title" = "Aanmelden";
+
+/* Passwordless code reminder action */
+"com.auth0.passwordless.code.reminder" = "Kreeg niet de code?";
+
+/* Passwordless code sent by email to %@{identifier} */
+"com.auth0.passwordless.email.code.sent" = "Een mailtje met de code is verstuurd naar %1$@";
+
+/* Passwordless email title */
+"com.auth0.passwordless.email.title" = "Voer uw e-mailadres als u wilt inloggen of een account aanmaken.";
+
+/* Passwordless email title with social */
+"com.auth0.passwordless.email.title.social" = "Anders, voer uw e-mail om te inloggen of een account aanmaken.";
+
+/* Passwordless link reminder action */
+"com.auth0.passwordless.link.reminder" = "Ontving de link niet?";
+
+/* Passwordless link sent to %@{identifier} */
+"com.auth0.passwordless.link.sent" = "We stuurde u een link aanmelden bij %1$@";
+
+/* Passwordless code sent by sms to %@{identifier} */
+"com.auth0.passwordless.sms.code.sent" = "Een sms met de code is verstuurd naar %1$@";
+
+/* CountryCodes TableViewCell detail %@{phoneCode} */
+"com.auth0.passwordless.sms.country.cell.detail" = "%1$@";
+
+/* CountryCodes TableViewCell label %@{localizedName} */
+"com.auth0.passwordless.sms.country.cell.label" = "%1$@";
+
+/* Passwordless sms title */
+"com.auth0.passwordless.sms.title" = "Geef uw telefoon inloggen of een account aanmaken.";
+
+/* Passwordless sms title with social */
+"com.auth0.passwordless.sms.title.social" = "Anders, geef uw telefoon inloggen of een account aanmaken.";
