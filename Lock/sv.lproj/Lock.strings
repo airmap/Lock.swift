@@ -83,7 +83,7 @@
 "com.auth0.lock.error.password.non_empty" = "Får inte vara tom, lösenord krävs";
 
 /* No more than %@{count} identical characters in a row (e.g., \"%@{identical sample}\" not allowed) */
-"com.auth0.lock.error.password.no_more_identical" = "Inte fler än %1$d identiska tecken i rad (t.ex. "%2$@" är inte tillåtet)";
+"com.auth0.lock.error.password.no_more_identical" = "Inte fler än %1$d identiska tecken i rad (t.ex. \"%2$@\" är inte tillåtet)";
 
 /* Numbers */
 "com.auth0.lock.error.password.numbers" = "Siffror (d.v.s. 0-9)";

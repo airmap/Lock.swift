@@ -83,7 +83,7 @@
 "com.auth0.lock.error.password.non_empty" = "要求密码不能为空";
 
 /* No more than %@{count} identical characters in a row (e.g., \"%@{identical sample}\" not allowed) */
-"com.auth0.lock.error.password.no_more_identical" = "不能超过连续 %1$d 个相同的字符（例如，不允许"%2$@" ）";
+"com.auth0.lock.error.password.no_more_identical" = "不能超过连续 %1$d 个相同的字符（例如，不允许\"%2$@\" ）";
 
 /* Numbers */
 "com.auth0.lock.error.password.numbers" = "数字（即0-9）";

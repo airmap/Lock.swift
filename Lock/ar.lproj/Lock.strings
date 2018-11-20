@@ -83,7 +83,7 @@
 "com.auth0.lock.error.password.non_empty" = "يتعذر ترك كلمة المرور فارغة";
 
 /* No more than %@{count} identical characters in a row (e.g., \"%@{identical sample}\" not allowed) */
-"com.auth0.lock.error.password.no_more_identical" = "ليس أكبر من %1$d حرف متطابق على التوالي (مثل "%2$@" غير مسموح به)";
+"com.auth0.lock.error.password.no_more_identical" = "ليس أكبر من %1$d حرف متطابق على التوالي (مثل \"%2$@\" غير مسموح به)";
 
 /* Numbers */
 "com.auth0.lock.error.password.numbers" = "أرقام (مثل 0-9)";

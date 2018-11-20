@@ -83,7 +83,7 @@
 "com.auth0.lock.error.password.non_empty" = "गैर-रिक्त पासवर्ड आवश्यक है";
 
 /* No more than %@{count} identical characters in a row (e.g., \"%@{identical sample}\" not allowed) */
-"com.auth0.lock.error.password.no_more_identical" = "एक पंक्ति में %1$d से अधिक एक जैसे अक्षर (उदाहरणार्थ, "%2$@") अनुमत नहीं है।";
+"com.auth0.lock.error.password.no_more_identical" = "एक पंक्ति में %1$d से अधिक एक जैसे अक्षर (उदाहरणार्थ, \"%2$@\") अनुमत नहीं है।";
 
 /* Numbers */
 "com.auth0.lock.error.password.numbers" = "संख्या (अर्थात 0-9)";

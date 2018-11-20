@@ -83,7 +83,7 @@
 "com.auth0.lock.error.password.non_empty" = "Niet-lege wachtwoord vereist";
 
 /* No more than %@{count} identical characters in a row (e.g., \"%@{identical sample}\" not allowed) */
-"com.auth0.lock.error.password.no_more_identical" = "Niet meer dan %1$d identieke tekens in een rij (bijvoorbeeld "%2$@" niet toegestaan)";
+"com.auth0.lock.error.password.no_more_identical" = "Niet meer dan %1$d identieke tekens in een rij (bijvoorbeeld \"%2$@\" niet toegestaan)";
 
 /* Numbers */
 "com.auth0.lock.error.password.numbers" = "Getallen (d.w.z. 0-9)";

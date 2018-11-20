@@ -83,7 +83,7 @@
 "com.auth0.lock.error.password.non_empty" = "ต้องมีรหัสผ่านประเภทที่ไม่เว้นว่างอยู่";
 
 /* No more than %@{count} identical characters in a row (e.g., \"%@{identical sample}\" not allowed) */
-"com.auth0.lock.error.password.no_more_identical" = "มีอักขระที่เหมือนกันไม่เกิน %1$d ในแต่ละแถว (เช่น  ไม่อนุญาตให้ใช้ "%2$@" เป็นต้น)";
+"com.auth0.lock.error.password.no_more_identical" = "มีอักขระที่เหมือนกันไม่เกิน %1$d ในแต่ละแถว (เช่น  ไม่อนุญาตให้ใช้ \"%2$@\" เป็นต้น)";
 
 /* Numbers */
 "com.auth0.lock.error.password.numbers" = "ตัวเลข (เช่น 0-9)";

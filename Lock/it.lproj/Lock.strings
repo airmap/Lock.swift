@@ -83,7 +83,7 @@
 "com.auth0.lock.error.password.non_empty" = "È richiesto che la password non sia vuota";
 
 /* No more than %@{count} identical characters in a row (e.g., \"%@{identical sample}\" not allowed) */
-"com.auth0.lock.error.password.no_more_identical" = "Non più di %1$d caratteri uguali in una riga (ad esempio "%2$@" non autorizzato)";
+"com.auth0.lock.error.password.no_more_identical" = "Non più di %1$d caratteri uguali in una riga (ad esempio \"%2$@\" non autorizzato)";
 
 /* Numbers */
 "com.auth0.lock.error.password.numbers" = "Numeri (ad esempio 0-9)";

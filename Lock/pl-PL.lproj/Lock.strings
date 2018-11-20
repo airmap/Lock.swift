@@ -83,7 +83,7 @@
 "com.auth0.lock.error.password.non_empty" = "Puste hasło jest niedozwolone.";
 
 /* No more than %@{count} identical characters in a row (e.g., \"%@{identical sample}\" not allowed) */
-"com.auth0.lock.error.password.no_more_identical" = "Nie więcej niż  %1$d identycznych znaków z rzędu (np. „%2$@" jest niedozwolone)";
+"com.auth0.lock.error.password.no_more_identical" = "Nie więcej niż  %1$d identycznych znaków z rzędu (np. „%2$@\" jest niedozwolone)";
 
 /* Numbers */
 "com.auth0.lock.error.password.numbers" = "Cyfry (np. 0-9)";
